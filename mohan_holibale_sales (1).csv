@@ -1,0 +1,1001 @@
+Date,Month,Year,Product_ID,Product_Name,Category,Quantity_Sold,Price_Per_Unit,Total_Sale_Amount,Region,Customer_Age_Group,Customer_Gender,Promotion_Used,Payment_Mode,Feedback_Rating
+7,September,2024,P0015,Pichkari,Colors,59,454,26786,East,46-60,Male,Buy1Get1,Card,1
+20,June,2024,P0021,Organic Colors,Accessories,43,365,15695,East,18-25,Other,Buy1Get1,Card,2
+29,November,2023,P0035,Organic Colors,Sweets,79,449,35471,East,18-25,Other,Discount,Card,2
+15,November,2024,P0066,Sweets,Sweets,12,226,2712,South,18-25,Male,None,UPI,5
+11,January,2023,P0091,Sweets,Colors,40,105,4200,North,26-35,Male,Buy1Get1,UPI,3
+8,January,2024,P0002,Sweets,Accessories,20,426,8520,West,26-35,Female,None,UPI,4
+29,February,2023,P0035,Pichkari,Accessories,94,438,41172,East,36-45,Other,None,UPI,5
+21,September,2024,P0082,Sweets,Sweets,38,173,6574,East,26-35,Female,Discount,Cash,1
+7,March,2024,P0078,Organic Colors,Sweets,3,157,471,North,46-60,Male,Discount,UPI,2
+26,January,2023,P0020,Gulal,Accessories,28,27,756,East,36-45,Other,None,Card,3
+19,May,2024,P0082,Sweets,Colors,56,303,16968,West,36-45,Female,Buy1Get1,Cash,5
+23,July,2024,P0010,Water Gun,Sweets,90,204,18360,South,46-60,Female,Buy1Get1,Card,3
+11,June,2023,P0025,Thandai,Colors,94,160,15040,East,46-60,Female,Discount,UPI,2
+11,December,2024,P0066,Pichkari,Colors,13,489,6357,West,46-60,Male,Discount,Cash,5
+24,January,2023,P0025,Water Gun,Sweets,77,374,28798,East,36-45,Male,Discount,UPI,5
+21,May,2023,P0054,Sweets,Colors,66,132,8712,North,36-45,Male,Discount,Cash,3
+4,May,2024,P0033,Organic Colors,Colors,37,409,15133,East,36-45,Other,Discount,Card,2
+8,June,2024,P0036,Gulal,Accessories,49,196,9604,East,46-60,Male,Discount,UPI,1
+24,March,2024,P0095,Color Bombs,Colors,66,462,30492,South,46-60,Other,Discount,UPI,5
+3,May,2024,P0014,Color Powder,Accessories,36,461,16596,North,18-25,Female,Buy1Get1,Cash,1
+22,July,2024,P0065,Thandai,Sweets,54,158,8532,North,26-35,Female,Discount,Cash,2
+21,May,2024,P0080,Color Powder,Sweets,26,113,2938,South,18-25,Male,Discount,UPI,5
+2,May,2024,P0054,Sweets,Accessories,75,252,18900,East,46-60,Female,Buy1Get1,Cash,5
+24,May,2023,P0052,Thandai,Sweets,72,471,33912,West,36-45,Male,Buy1Get1,UPI,1
+12,October,2024,P0003,Thandai,Colors,40,240,9600,North,46-60,Other,None,Cash,4
+30,October,2023,P0099,Gulal,Colors,43,488,20984,North,26-35,Female,Discount,Card,1
+6,March,2024,P0041,Thandai,Colors,22,215,4730,East,18-25,Male,Discount,Cash,1
+2,January,2024,P0006,Pichkari,Sweets,20,207,4140,East,18-25,Female,Discount,Card,4
+28,May,2023,P0025,Water Gun,Colors,8,405,3240,North,36-45,Female,Discount,Cash,2
+21,September,2024,P0013,Water Gun,Sweets,29,409,11861,East,18-25,Male,None,Cash,2
+1,January,2024,P0098,Water Gun,Colors,40,346,13840,West,18-25,Female,Buy1Get1,UPI,5
+12,March,2023,P0008,Pichkari,Accessories,90,96,8640,North,46-60,Female,Buy1Get1,Cash,3
+26,April,2024,P0021,Color Powder,Sweets,30,151,4530,West,18-25,Female,Discount,Cash,3
+22,January,2024,P0098,Gulal,Sweets,81,326,26406,West,18-25,Female,Discount,Card,5
+29,January,2024,P0068,Thandai,Colors,84,208,17472,East,18-25,Other,Discount,Cash,3
+12,August,2023,P0025,Pichkari,Sweets,55,55,3025,West,36-45,Female,None,UPI,1
+25,February,2024,P0079,Water Gun,Sweets,16,297,4752,East,36-45,Female,None,Card,1
+17,December,2024,P0068,Sweets,Accessories,46,24,1104,South,46-60,Male,Buy1Get1,UPI,4
+27,August,2024,P0045,Color Bombs,Accessories,62,53,3286,East,18-25,Other,Discount,UPI,4
+27,July,2024,P0060,Thandai,Colors,7,410,2870,West,36-45,Male,Discount,UPI,5
+31,October,2023,P0012,Pichkari,Accessories,80,178,14240,South,36-45,Male,Discount,UPI,5
+10,October,2023,P0032,Organic Colors,Colors,45,319,14355,East,46-60,Male,Discount,Card,5
+28,February,2024,P0096,Pichkari,Colors,59,53,3127,West,26-35,Other,None,Cash,1
+28,June,2024,P0092,Gulal,Colors,56,107,5992,North,18-25,Male,Buy1Get1,UPI,3
+16,June,2023,P0013,Gulal,Sweets,48,270,12960,North,36-45,Male,Buy1Get1,Card,5
+15,March,2023,P0031,Pichkari,Accessories,27,118,3186,East,46-60,Male,None,UPI,5
+30,November,2024,P0078,Water Gun,Colors,53,292,15476,East,46-60,Female,Discount,Cash,1
+30,February,2023,P0020,Color Bombs,Accessories,87,381,33147,North,46-60,Male,Buy1Get1,Card,1
+15,December,2024,P0018,Thandai,Colors,88,352,30976,West,36-45,Other,Buy1Get1,Card,1
+30,January,2023,P0093,Gulal,Accessories,73,113,8249,West,18-25,Other,None,Cash,3
+19,June,2023,P0060,Thandai,Accessories,35,265,9275,West,26-35,Female,Discount,Card,5
+12,December,2023,P0063,Water Gun,Colors,51,388,19788,East,18-25,Other,Buy1Get1,Cash,2
+23,May,2023,P0006,Thandai,Sweets,84,215,18060,South,46-60,Other,Discount,Card,2
+20,November,2024,P0032,Sweets,Accessories,37,344,12728,South,46-60,Female,Buy1Get1,Card,5
+25,September,2023,P0093,Gulal,Sweets,81,52,4212,South,26-35,Male,None,Cash,5
+3,January,2023,P0043,Water Gun,Sweets,95,362,34390,South,18-25,Female,Discount,Cash,5
+5,July,2024,P0002,Water Gun,Colors,57,254,14478,South,46-60,Male,None,Card,5
+19,May,2023,P0060,Color Bombs,Colors,8,296,2368,East,46-60,Male,Buy1Get1,Card,3
+7,May,2023,P0023,Color Bombs,Colors,79,364,28756,East,18-25,Other,None,Cash,2
+21,February,2024,P0083,Sweets,Accessories,95,282,26790,South,46-60,Female,None,Cash,4
+9,November,2023,P0031,Water Gun,Colors,94,485,45590,East,18-25,Other,None,Card,2
+7,March,2024,P0005,Color Powder,Colors,20,92,1840,East,46-60,Other,Buy1Get1,Card,2
+18,July,2024,P0083,Water Gun,Accessories,53,119,6307,South,18-25,Male,Discount,Card,1
+4,June,2024,P0034,Color Bombs,Accessories,12,447,5364,West,26-35,Other,None,Cash,5
+25,December,2024,P0010,Color Powder,Colors,49,199,9751,East,46-60,Female,Discount,Card,5
+28,February,2023,P0089,Gulal,Colors,17,480,8160,West,26-35,Other,Buy1Get1,UPI,5
+14,June,2024,P0002,Gulal,Colors,64,297,19008,East,46-60,Other,Discount,Cash,1
+18,February,2023,P0011,Thandai,Colors,42,433,18186,East,46-60,Male,None,Card,3
+26,February,2023,P0050,Pichkari,Sweets,94,406,38164,South,36-45,Female,None,Cash,3
+9,February,2023,P0031,Color Bombs,Sweets,29,260,7540,East,18-25,Other,None,UPI,4
+26,November,2023,P0056,Pichkari,Colors,19,221,4199,North,26-35,Male,None,Cash,3
+21,March,2023,P0079,Color Powder,Sweets,11,300,3300,North,26-35,Other,None,Card,3
+2,February,2023,P0073,Color Bombs,Accessories,98,142,13916,South,26-35,Female,None,UPI,5
+20,April,2023,P0087,Sweets,Sweets,50,210,10500,West,18-25,Other,Buy1Get1,UPI,2
+28,September,2023,P0083,Water Gun,Sweets,71,294,20874,West,36-45,Other,Buy1Get1,Card,3
+15,June,2023,P0009,Sweets,Colors,58,335,19430,West,26-35,Male,Buy1Get1,Card,3
+28,January,2023,P0099,Color Powder,Sweets,34,418,14212,North,18-25,Other,Discount,Card,1
+7,August,2024,P0021,Color Bombs,Sweets,20,104,2080,West,46-60,Male,Discount,Cash,4
+12,December,2024,P0073,Organic Colors,Sweets,50,287,14350,West,26-35,Female,Buy1Get1,Cash,1
+29,July,2024,P0028,Color Powder,Sweets,88,459,40392,South,26-35,Other,Discount,Cash,5
+8,October,2023,P0062,Organic Colors,Accessories,10,438,4380,West,36-45,Female,Discount,Card,2
+15,March,2024,P0007,Water Gun,Colors,32,334,10688,North,26-35,Female,None,Card,4
+3,January,2024,P0080,Gulal,Colors,52,228,11856,North,26-35,Other,None,Cash,1
+14,May,2024,P0016,Gulal,Accessories,15,98,1470,North,46-60,Male,Discount,UPI,3
+17,April,2023,P0097,Color Powder,Sweets,84,81,6804,South,18-25,Female,Discount,Cash,3
+4,October,2023,P0004,Pichkari,Accessories,3,256,768,South,18-25,Female,Buy1Get1,UPI,4
+18,August,2023,P0004,Color Bombs,Sweets,37,138,5106,East,36-45,Other,Discount,Card,3
+8,January,2023,P0040,Color Bombs,Accessories,40,221,8840,West,46-60,Other,None,Card,1
+4,October,2024,P0017,Gulal,Colors,72,437,31464,South,18-25,Other,Discount,Cash,1
+2,January,2024,P0052,Thandai,Colors,40,352,14080,North,46-60,Other,Buy1Get1,Cash,3
+30,December,2024,P0093,Sweets,Colors,56,105,5880,North,18-25,Other,None,Card,3
+6,April,2024,P0052,Thandai,Sweets,23,84,1932,South,46-60,Other,None,Cash,5
+22,August,2023,P0036,Water Gun,Sweets,11,432,4752,South,36-45,Male,None,Card,2
+10,May,2023,P0038,Sweets,Accessories,64,63,4032,South,26-35,Female,None,Card,4
+4,February,2023,P0050,Sweets,Accessories,8,353,2824,East,36-45,Male,Discount,UPI,1
+22,June,2024,P0063,Color Powder,Colors,93,468,43524,North,18-25,Male,Buy1Get1,Cash,4
+29,May,2023,P0063,Gulal,Sweets,94,422,39668,East,36-45,Other,Discount,Card,5
+31,February,2023,P0062,Thandai,Accessories,56,63,3528,East,26-35,Female,Discount,Cash,1
+18,November,2024,P0099,Thandai,Sweets,60,227,13620,West,36-45,Male,None,UPI,5
+26,November,2024,P0007,Gulal,Sweets,10,25,250,North,18-25,Other,Buy1Get1,UPI,5
+12,November,2023,P0027,Thandai,Colors,39,108,4212,North,18-25,Other,None,Cash,3
+2,March,2023,P0092,Organic Colors,Colors,28,29,812,South,36-45,Female,Discount,Cash,4
+10,September,2023,P0086,Gulal,Sweets,49,55,2695,South,26-35,Male,Discount,Card,4
+30,July,2023,P0014,Color Powder,Sweets,36,460,16560,West,36-45,Male,None,UPI,3
+4,July,2023,P0071,Pichkari,Sweets,13,202,2626,East,26-35,Male,Discount,UPI,4
+14,November,2023,P0086,Sweets,Sweets,96,392,37632,South,46-60,Other,Discount,UPI,3
+31,June,2024,P0005,Color Powder,Colors,36,67,2412,South,26-35,Female,None,Cash,1
+16,August,2024,P0055,Color Bombs,Accessories,26,446,11596,North,46-60,Female,Discount,Card,5
+15,April,2024,P0002,Water Gun,Colors,86,120,10320,North,36-45,Male,Buy1Get1,Cash,5
+8,August,2023,P0062,Pichkari,Accessories,4,138,552,South,26-35,Other,None,Cash,4
+14,April,2024,P0091,Color Bombs,Sweets,95,346,32870,North,46-60,Male,Buy1Get1,Cash,2
+23,August,2023,P0021,Sweets,Accessories,82,203,16646,West,46-60,Female,Discount,Card,5
+28,September,2023,P0079,Thandai,Colors,64,422,27008,South,46-60,Other,Discount,Cash,3
+25,March,2024,P0021,Gulal,Colors,38,349,13262,North,18-25,Male,None,UPI,2
+30,March,2023,P0010,Sweets,Sweets,88,335,29480,West,36-45,Male,Discount,UPI,2
+8,November,2023,P0087,Color Powder,Colors,87,17,1479,North,46-60,Other,None,UPI,5
+21,February,2024,P0058,Water Gun,Sweets,22,38,836,North,26-35,Female,None,Card,5
+16,October,2024,P0039,Color Powder,Colors,2,121,242,North,46-60,Other,None,Cash,5
+13,March,2024,P0005,Pichkari,Colors,31,444,13764,South,18-25,Male,None,Card,3
+18,March,2023,P0065,Pichkari,Sweets,11,170,1870,East,36-45,Male,None,Cash,2
+15,May,2024,P0013,Water Gun,Accessories,92,140,12880,North,18-25,Male,Buy1Get1,UPI,4
+21,May,2024,P0085,Organic Colors,Colors,46,197,9062,West,18-25,Male,None,Cash,3
+24,February,2023,P0090,Color Bombs,Accessories,96,172,16512,South,18-25,Female,Buy1Get1,Cash,1
+26,December,2024,P0085,Color Bombs,Colors,62,206,12772,South,26-35,Female,Discount,Cash,5
+25,October,2024,P0053,Pichkari,Colors,69,484,33396,West,36-45,Male,None,Card,2
+28,June,2024,P0082,Pichkari,Colors,64,373,23872,North,36-45,Female,Discount,Cash,3
+28,May,2023,P0045,Thandai,Colors,10,213,2130,East,26-35,Female,None,Cash,1
+28,June,2023,P0032,Gulal,Accessories,40,221,8840,North,36-45,Female,Buy1Get1,Cash,3
+13,January,2023,P0036,Thandai,Accessories,24,118,2832,West,18-25,Male,Buy1Get1,Card,3
+9,May,2023,P0081,Thandai,Colors,99,285,28215,South,36-45,Other,Buy1Get1,Card,4
+29,September,2024,P0099,Organic Colors,Colors,44,82,3608,East,26-35,Other,Discount,Card,4
+15,December,2023,P0060,Color Bombs,Accessories,60,176,10560,South,18-25,Other,None,Cash,3
+13,October,2023,P0011,Organic Colors,Sweets,62,269,16678,West,26-35,Male,Discount,UPI,1
+1,February,2024,P0063,Organic Colors,Sweets,87,252,21924,North,46-60,Female,Buy1Get1,UPI,2
+25,January,2024,P0021,Water Gun,Accessories,17,284,4828,East,18-25,Female,Discount,UPI,2
+7,October,2024,P0052,Color Bombs,Colors,65,111,7215,South,18-25,Male,Buy1Get1,Cash,5
+9,November,2023,P0055,Gulal,Colors,95,484,45980,South,36-45,Male,Buy1Get1,UPI,5
+24,September,2023,P0026,Color Powder,Sweets,95,182,17290,South,18-25,Other,Buy1Get1,UPI,2
+1,October,2023,P0068,Pichkari,Sweets,57,180,10260,North,26-35,Other,None,UPI,3
+12,September,2024,P0034,Pichkari,Accessories,55,150,8250,East,36-45,Male,None,Cash,3
+8,September,2024,P0052,Gulal,Sweets,53,406,21518,North,46-60,Other,Buy1Get1,UPI,4
+24,June,2023,P0082,Organic Colors,Accessories,56,197,11032,North,26-35,Female,Discount,UPI,4
+31,August,2024,P0099,Thandai,Sweets,98,450,44100,North,46-60,Male,Discount,Cash,5
+11,November,2024,P0093,Water Gun,Sweets,9,95,855,West,46-60,Male,None,Card,2
+19,January,2024,P0052,Organic Colors,Sweets,22,485,10670,West,46-60,Female,Buy1Get1,UPI,3
+17,October,2023,P0029,Pichkari,Colors,13,61,793,West,18-25,Female,Discount,Card,2
+8,April,2024,P0038,Sweets,Colors,89,120,10680,East,26-35,Female,Buy1Get1,UPI,1
+3,January,2024,P0042,Thandai,Colors,48,446,21408,North,26-35,Other,Discount,Cash,2
+3,August,2023,P0021,Pichkari,Sweets,18,374,6732,North,18-25,Male,None,Card,1
+1,January,2023,P0042,Sweets,Accessories,76,351,26676,West,36-45,Other,Buy1Get1,Card,4
+27,March,2024,P0013,Organic Colors,Accessories,40,52,2080,North,46-60,Female,Buy1Get1,Card,4
+5,April,2024,P0064,Gulal,Accessories,17,220,3740,North,26-35,Other,Discount,Card,5
+10,August,2023,P0017,Gulal,Accessories,15,465,6975,South,18-25,Female,Discount,UPI,2
+7,June,2023,P0009,Thandai,Colors,15,209,3135,North,46-60,Other,Discount,UPI,2
+26,October,2024,P0041,Pichkari,Colors,79,307,24253,South,36-45,Other,Buy1Get1,Card,1
+9,December,2024,P0001,Color Bombs,Sweets,63,355,22365,North,36-45,Female,None,UPI,4
+28,July,2024,P0002,Sweets,Sweets,39,249,9711,East,46-60,Other,None,Card,1
+7,August,2024,P0060,Water Gun,Accessories,13,124,1612,West,36-45,Male,Discount,Card,4
+9,February,2023,P0048,Pichkari,Colors,81,35,2835,South,26-35,Other,None,Cash,1
+8,October,2024,P0029,Water Gun,Accessories,32,416,13312,West,26-35,Other,Discount,Card,4
+12,November,2024,P0097,Pichkari,Sweets,9,308,2772,South,26-35,Male,None,UPI,1
+2,August,2023,P0010,Color Bombs,Sweets,40,86,3440,South,36-45,Female,Buy1Get1,Card,4
+1,March,2024,P0058,Color Bombs,Accessories,20,421,8420,South,26-35,Male,Discount,Cash,1
+16,July,2023,P0060,Thandai,Sweets,90,146,13140,East,18-25,Other,None,UPI,2
+23,March,2024,P0021,Thandai,Accessories,91,29,2639,North,26-35,Female,Buy1Get1,Cash,5
+23,July,2024,P0028,Color Bombs,Colors,85,449,38165,South,26-35,Other,None,Cash,1
+30,November,2023,P0075,Color Powder,Accessories,82,220,18040,East,36-45,Other,Buy1Get1,Card,5
+24,December,2023,P0034,Color Bombs,Colors,77,249,19173,South,26-35,Male,Buy1Get1,Cash,2
+5,February,2024,P0008,Gulal,Colors,80,48,3840,North,46-60,Male,None,Cash,2
+3,October,2024,P0059,Gulal,Sweets,73,444,32412,South,18-25,Female,None,UPI,4
+12,June,2024,P0086,Color Powder,Sweets,63,277,17451,East,36-45,Female,Buy1Get1,Cash,5
+8,March,2023,P0072,Organic Colors,Sweets,76,216,16416,North,18-25,Female,Buy1Get1,Card,3
+22,March,2024,P0049,Sweets,Accessories,44,488,21472,East,46-60,Other,Buy1Get1,Card,4
+27,September,2023,P0079,Organic Colors,Accessories,38,448,17024,North,36-45,Male,Discount,Card,5
+3,July,2023,P0017,Water Gun,Sweets,83,471,39093,North,36-45,Male,Buy1Get1,Cash,1
+1,May,2024,P0060,Organic Colors,Accessories,60,276,16560,West,26-35,Male,Discount,UPI,1
+3,December,2023,P0087,Pichkari,Sweets,71,163,11573,West,18-25,Female,Buy1Get1,Card,2
+5,October,2024,P0088,Organic Colors,Accessories,99,51,5049,West,46-60,Male,Discount,Cash,3
+15,July,2024,P0045,Pichkari,Colors,48,420,20160,North,46-60,Male,Buy1Get1,Card,1
+14,September,2024,P0083,Color Powder,Colors,18,20,360,South,36-45,Male,Buy1Get1,Card,5
+3,January,2024,P0069,Gulal,Sweets,16,303,4848,East,26-35,Female,Buy1Get1,UPI,5
+1,July,2024,P0032,Thandai,Accessories,55,107,5885,East,36-45,Male,None,Card,1
+5,June,2023,P0044,Pichkari,Accessories,39,436,17004,East,36-45,Female,None,UPI,5
+26,October,2023,P0065,Gulal,Colors,68,284,19312,West,36-45,Male,Buy1Get1,Cash,5
+23,December,2024,P0087,Sweets,Colors,59,457,26963,North,36-45,Male,Discount,Card,2
+31,September,2024,P0008,Water Gun,Sweets,89,399,35511,West,46-60,Male,Discount,Cash,3
+14,January,2023,P0077,Sweets,Colors,96,439,42144,South,46-60,Female,Buy1Get1,Cash,2
+7,April,2023,P0072,Color Powder,Sweets,62,381,23622,North,36-45,Female,None,Cash,3
+27,September,2023,P0087,Organic Colors,Colors,13,239,3107,East,36-45,Male,Discount,Card,5
+9,April,2023,P0043,Organic Colors,Colors,81,378,30618,West,26-35,Other,None,UPI,3
+15,October,2024,P0001,Color Bombs,Accessories,6,435,2610,West,36-45,Female,Discount,Card,5
+15,March,2024,P0051,Color Bombs,Colors,83,229,19007,South,46-60,Female,Buy1Get1,Cash,5
+26,September,2023,P0024,Color Bombs,Colors,77,74,5698,South,18-25,Male,None,UPI,2
+10,February,2024,P0099,Sweets,Sweets,60,364,21840,West,46-60,Other,Discount,Cash,2
+28,April,2023,P0024,Pichkari,Colors,90,241,21690,South,26-35,Male,Buy1Get1,UPI,4
+13,June,2024,P0017,Water Gun,Sweets,14,337,4718,East,46-60,Female,Buy1Get1,Card,1
+19,February,2023,P0005,Color Bombs,Colors,95,452,42940,South,18-25,Female,Buy1Get1,UPI,4
+31,August,2024,P0020,Color Powder,Colors,54,61,3294,South,36-45,Male,None,Card,4
+7,August,2023,P0021,Color Powder,Sweets,4,383,1532,West,18-25,Male,None,Cash,3
+17,January,2023,P0058,Color Bombs,Accessories,39,440,17160,West,36-45,Other,Buy1Get1,UPI,5
+20,December,2024,P0031,Organic Colors,Sweets,72,385,27720,North,36-45,Other,None,Cash,5
+29,March,2023,P0100,Color Bombs,Sweets,25,272,6800,North,46-60,Female,Discount,UPI,5
+4,October,2024,P0011,Water Gun,Sweets,77,276,21252,West,46-60,Other,Buy1Get1,Card,1
+30,September,2024,P0052,Color Bombs,Accessories,32,368,11776,South,46-60,Other,Buy1Get1,UPI,3
+5,May,2023,P0015,Water Gun,Colors,59,326,19234,South,26-35,Female,None,UPI,3
+23,June,2024,P0083,Color Powder,Sweets,63,333,20979,North,46-60,Female,Buy1Get1,Card,5
+7,April,2024,P0007,Color Bombs,Sweets,38,418,15884,North,26-35,Female,Discount,Card,4
+13,October,2024,P0028,Sweets,Accessories,92,405,37260,North,46-60,Female,None,Card,1
+15,February,2024,P0051,Thandai,Sweets,53,163,8639,East,36-45,Male,None,UPI,4
+11,November,2024,P0058,Sweets,Colors,94,367,34498,East,26-35,Female,Buy1Get1,Cash,2
+29,August,2023,P0005,Color Powder,Accessories,67,375,25125,North,18-25,Female,Buy1Get1,UPI,3
+4,November,2024,P0005,Water Gun,Colors,28,149,4172,South,26-35,Female,Buy1Get1,UPI,3
+13,June,2024,P0094,Sweets,Colors,3,436,1308,North,26-35,Other,None,Cash,4
+7,May,2024,P0096,Water Gun,Accessories,98,60,5880,East,18-25,Female,Buy1Get1,Card,1
+27,September,2024,P0008,Sweets,Sweets,80,126,10080,South,26-35,Male,Discount,UPI,3
+19,January,2024,P0064,Sweets,Colors,22,430,9460,East,36-45,Male,Buy1Get1,Cash,4
+22,May,2023,P0010,Water Gun,Colors,96,55,5280,South,46-60,Female,Buy1Get1,Card,1
+28,June,2024,P0038,Pichkari,Colors,38,318,12084,East,18-25,Male,None,Card,4
+2,May,2023,P0096,Sweets,Colors,72,97,6984,South,46-60,Other,Buy1Get1,UPI,1
+10,June,2023,P0092,Color Bombs,Accessories,72,217,15624,South,36-45,Female,None,Card,5
+13,June,2023,P0081,Thandai,Accessories,62,386,23932,South,18-25,Male,Buy1Get1,Card,1
+30,July,2023,P0095,Color Powder,Colors,57,278,15846,South,46-60,Male,Discount,Cash,2
+25,April,2024,P0008,Pichkari,Sweets,6,98,588,West,46-60,Female,Discount,Cash,5
+21,November,2023,P0025,Water Gun,Colors,78,390,30420,East,36-45,Male,None,Card,4
+6,August,2023,P0073,Pichkari,Sweets,32,127,4064,East,46-60,Female,None,Cash,5
+28,July,2024,P0066,Gulal,Colors,99,63,6237,West,36-45,Male,Buy1Get1,Card,5
+28,September,2024,P0079,Gulal,Sweets,10,450,4500,South,26-35,Other,Buy1Get1,UPI,4
+12,July,2024,P0050,Sweets,Colors,3,125,375,South,36-45,Male,Discount,Cash,4
+12,March,2023,P0067,Sweets,Sweets,59,127,7493,East,26-35,Male,Buy1Get1,Card,2
+20,March,2024,P0049,Color Bombs,Colors,76,269,20444,West,18-25,Female,Discount,Card,4
+30,August,2024,P0036,Thandai,Colors,49,84,4116,South,46-60,Male,None,Cash,3
+30,May,2023,P0068,Color Powder,Sweets,59,489,28851,South,36-45,Female,Buy1Get1,Cash,3
+11,April,2024,P0078,Pichkari,Accessories,31,314,9734,South,36-45,Other,None,UPI,2
+26,August,2024,P0041,Gulal,Sweets,93,16,1488,North,46-60,Female,Buy1Get1,Card,1
+23,June,2024,P0089,Sweets,Accessories,69,375,25875,West,46-60,Female,Discount,UPI,1
+28,February,2024,P0062,Organic Colors,Colors,62,131,8122,South,18-25,Male,None,UPI,3
+25,April,2023,P0010,Organic Colors,Sweets,52,20,1040,North,18-25,Other,None,UPI,4
+7,December,2024,P0021,Color Powder,Sweets,89,357,31773,West,36-45,Female,Buy1Get1,Cash,2
+30,November,2024,P0036,Pichkari,Sweets,41,447,18327,South,18-25,Male,None,UPI,1
+1,April,2023,P0012,Sweets,Accessories,31,498,15438,East,26-35,Male,Discount,Cash,1
+1,June,2024,P0091,Sweets,Accessories,85,224,19040,North,18-25,Female,None,Cash,5
+25,June,2023,P0002,Gulal,Colors,84,438,36792,North,18-25,Male,None,UPI,3
+27,January,2024,P0013,Gulal,Accessories,22,288,6336,South,36-45,Female,Buy1Get1,UPI,4
+30,August,2023,P0053,Sweets,Accessories,4,37,148,South,26-35,Female,None,Card,2
+25,June,2023,P0032,Water Gun,Colors,13,244,3172,North,18-25,Female,Buy1Get1,UPI,1
+20,March,2023,P0095,Sweets,Sweets,45,376,16920,East,26-35,Other,Buy1Get1,Card,5
+13,September,2023,P0016,Color Powder,Sweets,42,322,13524,East,26-35,Female,None,UPI,3
+9,February,2024,P0032,Sweets,Colors,49,35,1715,West,26-35,Male,Discount,UPI,3
+3,November,2023,P0032,Color Bombs,Sweets,20,418,8360,South,46-60,Other,Buy1Get1,UPI,2
+7,August,2024,P0098,Thandai,Accessories,77,63,4851,East,46-60,Male,None,UPI,1
+6,October,2023,P0011,Color Bombs,Colors,81,38,3078,West,46-60,Other,Buy1Get1,Card,2
+8,March,2023,P0010,Color Bombs,Colors,54,476,25704,East,46-60,Other,Discount,Card,2
+27,December,2023,P0015,Water Gun,Colors,36,362,13032,South,36-45,Other,Discount,UPI,5
+9,May,2024,P0017,Water Gun,Sweets,97,173,16781,West,18-25,Other,Buy1Get1,UPI,3
+30,June,2023,P0040,Organic Colors,Colors,1,279,279,West,46-60,Male,Discount,Card,4
+5,October,2024,P0018,Sweets,Colors,15,343,5145,West,36-45,Female,None,Cash,3
+1,June,2024,P0055,Color Bombs,Colors,77,44,3388,East,18-25,Male,None,Cash,3
+19,April,2024,P0073,Water Gun,Sweets,17,295,5015,South,46-60,Female,Buy1Get1,Cash,5
+10,March,2024,P0025,Gulal,Accessories,24,357,8568,West,18-25,Male,Discount,Card,4
+12,April,2024,P0059,Sweets,Colors,58,282,16356,North,46-60,Other,None,Card,1
+24,January,2024,P0078,Color Powder,Accessories,72,460,33120,South,36-45,Other,None,Cash,4
+15,April,2024,P0089,Thandai,Sweets,91,217,19747,North,26-35,Female,None,Cash,1
+27,January,2024,P0022,Pichkari,Sweets,23,247,5681,North,26-35,Female,Buy1Get1,UPI,4
+22,December,2024,P0030,Sweets,Sweets,46,423,19458,West,18-25,Male,Buy1Get1,Card,2
+24,January,2023,P0084,Pichkari,Sweets,72,102,7344,West,36-45,Female,None,Card,4
+9,October,2023,P0085,Color Bombs,Accessories,8,182,1456,East,26-35,Male,None,Cash,5
+20,June,2023,P0044,Thandai,Colors,59,88,5192,East,46-60,Female,Discount,Cash,1
+17,May,2023,P0032,Pichkari,Sweets,90,119,10710,East,26-35,Female,Discount,Card,3
+30,November,2023,P0051,Color Bombs,Sweets,59,226,13334,South,18-25,Female,Discount,UPI,5
+17,April,2024,P0046,Gulal,Accessories,13,444,5772,East,18-25,Other,Buy1Get1,Cash,1
+26,November,2024,P0021,Pichkari,Accessories,39,367,14313,North,36-45,Other,None,Card,1
+20,March,2024,P0099,Thandai,Sweets,28,115,3220,East,18-25,Male,Buy1Get1,Card,3
+12,January,2024,P0032,Organic Colors,Colors,89,56,4984,West,26-35,Female,None,UPI,2
+30,June,2024,P0094,Sweets,Colors,61,190,11590,East,26-35,Male,Discount,UPI,5
+7,February,2024,P0039,Color Bombs,Sweets,16,73,1168,South,26-35,Female,Discount,Cash,3
+2,August,2024,P0012,Sweets,Accessories,2,255,510,South,26-35,Other,Discount,Cash,3
+3,October,2023,P0047,Thandai,Sweets,82,253,20746,North,36-45,Other,Discount,Cash,2
+17,May,2023,P0018,Water Gun,Sweets,17,431,7327,South,46-60,Female,None,Card,5
+5,July,2023,P0021,Color Bombs,Accessories,30,329,9870,East,46-60,Female,Discount,Cash,3
+17,October,2023,P0013,Pichkari,Sweets,13,96,1248,West,36-45,Other,None,Card,2
+24,December,2024,P0021,Color Bombs,Sweets,96,226,21696,South,18-25,Other,None,Cash,5
+17,February,2024,P0008,Sweets,Sweets,93,499,46407,North,46-60,Male,Buy1Get1,UPI,4
+27,August,2024,P0046,Gulal,Accessories,94,16,1504,East,18-25,Other,Discount,UPI,1
+17,February,2023,P0007,Color Bombs,Colors,82,287,23534,North,46-60,Female,Discount,Card,2
+2,April,2024,P0023,Pichkari,Colors,13,346,4498,South,18-25,Male,Buy1Get1,UPI,1
+2,January,2024,P0096,Water Gun,Accessories,43,219,9417,South,36-45,Female,None,Card,4
+28,May,2024,P0075,Organic Colors,Colors,85,178,15130,North,26-35,Male,Discount,Card,3
+22,September,2023,P0086,Color Powder,Sweets,94,339,31866,East,18-25,Female,None,UPI,3
+23,January,2024,P0022,Gulal,Colors,21,147,3087,South,26-35,Other,Buy1Get1,Card,5
+5,September,2023,P0089,Organic Colors,Sweets,55,450,24750,West,18-25,Female,None,UPI,2
+1,November,2023,P0022,Water Gun,Colors,81,400,32400,South,18-25,Male,Discount,Cash,2
+1,August,2023,P0092,Color Bombs,Accessories,40,390,15600,East,18-25,Female,None,Cash,5
+19,June,2023,P0029,Sweets,Colors,83,315,26145,South,18-25,Male,None,UPI,1
+30,July,2024,P0013,Thandai,Colors,15,239,3585,North,18-25,Female,Discount,UPI,3
+2,March,2023,P0082,Sweets,Colors,73,484,35332,South,26-35,Other,Discount,UPI,3
+21,January,2023,P0002,Organic Colors,Accessories,52,317,16484,South,18-25,Other,None,UPI,2
+12,May,2024,P0029,Pichkari,Colors,74,170,12580,East,26-35,Female,None,Cash,2
+26,December,2024,P0085,Sweets,Accessories,95,10,950,North,36-45,Female,Buy1Get1,Card,5
+6,December,2023,P0079,Gulal,Sweets,53,245,12985,East,46-60,Female,Discount,Card,4
+23,February,2024,P0052,Sweets,Colors,87,446,38802,South,18-25,Male,None,Cash,1
+4,May,2023,P0027,Pichkari,Accessories,52,197,10244,West,46-60,Female,Discount,Card,4
+23,August,2023,P0050,Color Powder,Accessories,30,427,12810,South,26-35,Female,Buy1Get1,Cash,4
+11,November,2023,P0095,Color Bombs,Colors,33,13,429,East,36-45,Male,None,Card,2
+24,September,2023,P0079,Thandai,Sweets,57,410,23370,West,36-45,Other,None,UPI,2
+27,February,2024,P0023,Organic Colors,Accessories,52,141,7332,East,36-45,Female,None,UPI,2
+17,December,2023,P0088,Color Bombs,Colors,9,436,3924,East,46-60,Female,Discount,UPI,4
+31,March,2024,P0044,Sweets,Sweets,54,227,12258,North,26-35,Other,Buy1Get1,Cash,1
+6,March,2024,P0077,Water Gun,Accessories,1,269,269,West,18-25,Other,Discount,Cash,2
+24,January,2024,P0022,Color Bombs,Accessories,44,10,440,South,18-25,Male,None,Card,3
+5,August,2024,P0043,Color Powder,Sweets,99,80,7920,East,26-35,Female,Buy1Get1,Card,1
+20,June,2023,P0037,Sweets,Sweets,75,487,36525,South,46-60,Female,None,Card,3
+2,December,2024,P0061,Thandai,Colors,98,187,18326,North,18-25,Male,None,Cash,1
+6,August,2023,P0097,Pichkari,Colors,80,466,37280,North,26-35,Other,Discount,Card,2
+22,November,2024,P0056,Color Powder,Accessories,9,198,1782,West,18-25,Male,None,UPI,5
+11,September,2024,P0003,Sweets,Sweets,32,300,9600,North,36-45,Other,Buy1Get1,Card,2
+31,May,2023,P0063,Color Powder,Sweets,15,17,255,North,18-25,Male,None,UPI,4
+16,December,2023,P0019,Color Bombs,Sweets,12,262,3144,South,46-60,Other,None,Cash,4
+16,March,2023,P0023,Thandai,Accessories,97,417,40449,North,26-35,Male,Discount,UPI,1
+1,May,2024,P0029,Pichkari,Sweets,78,476,37128,North,46-60,Other,Buy1Get1,UPI,4
+9,May,2024,P0030,Sweets,Sweets,57,301,17157,East,26-35,Other,Discount,UPI,2
+28,May,2023,P0039,Gulal,Accessories,8,443,3544,North,36-45,Other,None,Cash,3
+27,March,2023,P0025,Organic Colors,Colors,72,253,18216,East,26-35,Other,Discount,Cash,2
+6,November,2023,P0008,Pichkari,Colors,27,132,3564,North,18-25,Other,Discount,Cash,1
+16,October,2023,P0058,Gulal,Accessories,62,308,19096,North,18-25,Female,Discount,Cash,4
+29,April,2024,P0016,Color Powder,Sweets,12,292,3504,West,36-45,Other,Discount,Card,3
+3,September,2023,P0072,Water Gun,Accessories,65,41,2665,West,26-35,Female,None,Cash,5
+20,October,2023,P0001,Pichkari,Colors,42,343,14406,East,36-45,Other,None,UPI,3
+28,September,2023,P0005,Color Powder,Colors,62,386,23932,North,18-25,Female,Buy1Get1,Cash,3
+27,February,2023,P0003,Gulal,Accessories,11,155,1705,South,46-60,Female,Discount,Card,2
+4,August,2024,P0065,Color Bombs,Accessories,43,165,7095,West,36-45,Male,Discount,Card,5
+19,August,2023,P0004,Color Bombs,Colors,95,422,40090,South,46-60,Other,Buy1Get1,Card,1
+26,July,2024,P0099,Water Gun,Accessories,17,25,425,West,46-60,Male,Discount,UPI,1
+3,August,2023,P0096,Organic Colors,Colors,97,364,35308,West,26-35,Male,Buy1Get1,Cash,3
+31,March,2023,P0064,Pichkari,Accessories,32,56,1792,North,36-45,Other,None,Cash,3
+19,June,2024,P0098,Pichkari,Accessories,93,260,24180,West,46-60,Male,Buy1Get1,Cash,4
+20,January,2023,P0089,Pichkari,Accessories,85,196,16660,South,46-60,Other,Discount,UPI,5
+7,July,2024,P0010,Organic Colors,Colors,85,40,3400,West,26-35,Male,Buy1Get1,UPI,3
+20,January,2024,P0021,Color Powder,Accessories,40,269,10760,East,26-35,Other,None,Card,4
+9,September,2023,P0046,Thandai,Colors,23,430,9890,North,18-25,Other,Discount,Card,5
+1,January,2024,P0091,Thandai,Colors,56,26,1456,North,46-60,Other,None,Cash,1
+8,January,2024,P0027,Water Gun,Accessories,6,48,288,East,18-25,Female,None,UPI,4
+7,July,2024,P0066,Pichkari,Accessories,86,313,26918,East,46-60,Male,Buy1Get1,UPI,5
+18,February,2024,P0041,Color Powder,Colors,50,439,21950,East,18-25,Female,None,Cash,4
+8,May,2024,P0013,Color Bombs,Colors,37,483,17871,West,26-35,Male,Discount,Cash,3
+1,August,2024,P0009,Gulal,Sweets,64,441,28224,North,36-45,Male,None,Card,2
+11,August,2024,P0036,Color Powder,Colors,54,48,2592,East,26-35,Male,None,Card,1
+28,March,2024,P0086,Organic Colors,Sweets,72,498,35856,West,18-25,Female,Buy1Get1,Card,3
+25,July,2023,P0090,Thandai,Sweets,49,141,6909,East,18-25,Male,None,Cash,3
+25,March,2023,P0058,Thandai,Sweets,99,39,3861,South,36-45,Female,Buy1Get1,Cash,5
+18,June,2024,P0054,Color Bombs,Accessories,11,167,1837,South,46-60,Other,Buy1Get1,Card,4
+23,June,2023,P0012,Color Bombs,Accessories,88,287,25256,North,18-25,Male,Discount,Card,1
+31,March,2024,P0081,Organic Colors,Colors,49,212,10388,West,18-25,Male,Discount,UPI,3
+30,July,2024,P0078,Gulal,Sweets,21,75,1575,South,18-25,Other,Discount,UPI,5
+10,March,2023,P0014,Color Bombs,Accessories,66,117,7722,South,36-45,Other,Discount,Card,1
+3,August,2024,P0034,Water Gun,Accessories,63,277,17451,West,26-35,Male,Buy1Get1,Card,4
+7,October,2024,P0053,Gulal,Accessories,83,231,19173,East,18-25,Other,None,UPI,3
+28,April,2024,P0020,Color Bombs,Accessories,28,301,8428,West,36-45,Female,Discount,Card,3
+16,January,2024,P0075,Sweets,Accessories,17,27,459,East,18-25,Female,Discount,UPI,3
+26,April,2023,P0016,Color Powder,Sweets,6,99,594,South,46-60,Male,Discount,UPI,1
+16,July,2024,P0095,Color Bombs,Sweets,19,190,3610,South,36-45,Female,None,UPI,1
+25,November,2024,P0070,Water Gun,Sweets,56,264,14784,South,18-25,Female,Discount,Cash,1
+20,April,2024,P0056,Pichkari,Sweets,28,464,12992,North,36-45,Male,None,Cash,1
+28,June,2023,P0083,Color Bombs,Colors,66,262,17292,North,18-25,Other,Buy1Get1,Card,5
+17,September,2024,P0058,Thandai,Sweets,38,266,10108,North,26-35,Male,Buy1Get1,UPI,2
+2,January,2023,P0004,Thandai,Accessories,37,392,14504,West,18-25,Female,Buy1Get1,Cash,5
+1,May,2023,P0004,Thandai,Sweets,68,451,30668,South,36-45,Male,None,Card,3
+16,November,2024,P0020,Pichkari,Colors,86,355,30530,South,46-60,Male,Discount,Card,5
+30,July,2024,P0010,Thandai,Accessories,90,96,8640,West,46-60,Female,Discount,Card,4
+12,January,2023,P0024,Sweets,Sweets,49,99,4851,North,46-60,Female,Discount,Card,1
+5,April,2024,P0099,Color Bombs,Sweets,43,246,10578,West,18-25,Male,Discount,Card,4
+5,June,2023,P0026,Organic Colors,Sweets,36,399,14364,North,26-35,Female,Discount,UPI,4
+27,February,2023,P0037,Thandai,Accessories,58,79,4582,South,18-25,Female,None,Card,3
+23,October,2024,P0085,Gulal,Accessories,13,53,689,East,46-60,Female,Buy1Get1,UPI,1
+9,May,2024,P0054,Organic Colors,Colors,52,209,10868,North,36-45,Female,Discount,Cash,4
+9,November,2023,P0021,Pichkari,Accessories,58,161,9338,South,46-60,Female,Buy1Get1,Card,3
+3,October,2023,P0074,Sweets,Accessories,32,95,3040,South,36-45,Female,None,Cash,1
+19,January,2023,P0038,Gulal,Sweets,81,28,2268,East,26-35,Other,None,UPI,2
+16,June,2023,P0046,Gulal,Accessories,60,110,6600,South,36-45,Male,Discount,UPI,3
+16,June,2024,P0004,Gulal,Sweets,83,411,34113,South,18-25,Female,None,Cash,5
+3,April,2024,P0060,Gulal,Sweets,58,104,6032,North,18-25,Male,Buy1Get1,Card,1
+20,August,2024,P0057,Organic Colors,Accessories,99,263,26037,North,18-25,Other,Discount,Card,4
+24,April,2024,P0045,Organic Colors,Colors,56,366,20496,East,36-45,Female,Discount,Cash,4
+22,August,2024,P0020,Color Bombs,Colors,28,39,1092,East,18-25,Male,Buy1Get1,Cash,5
+24,August,2023,P0017,Thandai,Accessories,1,258,258,South,18-25,Female,Discount,Cash,5
+1,May,2024,P0071,Color Powder,Colors,42,435,18270,North,18-25,Female,Discount,Card,4
+24,April,2024,P0004,Color Bombs,Sweets,82,42,3444,East,26-35,Female,Buy1Get1,Card,1
+20,December,2024,P0093,Color Bombs,Sweets,48,467,22416,East,36-45,Female,Discount,Card,3
+11,February,2024,P0014,Sweets,Accessories,40,238,9520,West,36-45,Female,Discount,Cash,5
+17,November,2024,P0003,Sweets,Colors,97,21,2037,East,46-60,Female,Buy1Get1,Card,5
+8,March,2023,P0088,Thandai,Colors,63,127,8001,South,36-45,Female,None,UPI,5
+4,March,2023,P0080,Color Powder,Sweets,76,359,27284,North,26-35,Other,Buy1Get1,Cash,2
+6,April,2023,P0058,Sweets,Accessories,72,164,11808,East,36-45,Other,Discount,Card,1
+8,April,2024,P0055,Thandai,Colors,88,432,38016,West,26-35,Female,Buy1Get1,Cash,1
+20,October,2023,P0004,Thandai,Accessories,80,402,32160,North,26-35,Female,Discount,UPI,1
+30,November,2023,P0024,Organic Colors,Colors,4,255,1020,East,36-45,Other,Discount,UPI,1
+3,November,2024,P0034,Water Gun,Sweets,38,414,15732,West,46-60,Other,Buy1Get1,Cash,1
+16,May,2024,P0030,Organic Colors,Sweets,27,341,9207,East,18-25,Other,Discount,Cash,4
+30,April,2024,P0082,Color Powder,Accessories,9,256,2304,North,18-25,Female,None,UPI,5
+25,November,2023,P0019,Sweets,Sweets,16,38,608,North,36-45,Male,Discount,Cash,4
+3,October,2023,P0031,Color Powder,Colors,56,170,9520,North,36-45,Male,Buy1Get1,UPI,2
+25,August,2024,P0060,Color Bombs,Sweets,76,244,18544,South,26-35,Male,None,UPI,3
+29,June,2024,P0060,Color Bombs,Accessories,31,199,6169,East,36-45,Male,None,Card,5
+18,June,2023,P0019,Color Powder,Accessories,88,126,11088,South,26-35,Female,Discount,Cash,2
+14,August,2023,P0049,Water Gun,Accessories,14,280,3920,North,46-60,Male,Buy1Get1,Cash,4
+18,July,2024,P0063,Water Gun,Colors,25,267,6675,West,36-45,Other,Discount,Card,3
+2,October,2024,P0083,Organic Colors,Colors,34,189,6426,East,18-25,Other,Discount,UPI,2
+22,November,2023,P0022,Color Powder,Colors,67,496,33232,South,18-25,Male,Buy1Get1,Cash,3
+3,December,2024,P0024,Sweets,Colors,24,382,9168,East,36-45,Other,Buy1Get1,Card,2
+16,October,2023,P0076,Organic Colors,Colors,73,181,13213,West,26-35,Female,Discount,Card,4
+29,August,2023,P0030,Pichkari,Sweets,26,447,11622,South,18-25,Male,None,Cash,3
+9,February,2023,P0058,Water Gun,Colors,20,283,5660,North,26-35,Male,Discount,Card,2
+4,September,2023,P0031,Gulal,Colors,64,268,17152,South,36-45,Female,None,UPI,4
+1,January,2024,P0100,Organic Colors,Sweets,10,144,1440,East,36-45,Other,Discount,Card,5
+4,August,2024,P0064,Color Bombs,Colors,83,180,14940,East,18-25,Female,Buy1Get1,UPI,4
+1,December,2023,P0019,Organic Colors,Accessories,67,219,14673,East,36-45,Female,None,UPI,4
+14,November,2023,P0048,Color Powder,Colors,24,245,5880,East,46-60,Other,Buy1Get1,Cash,5
+21,December,2023,P0045,Gulal,Colors,5,431,2155,North,46-60,Female,Buy1Get1,Card,4
+16,December,2023,P0100,Color Powder,Accessories,67,430,28810,South,18-25,Other,Buy1Get1,UPI,5
+20,April,2023,P0094,Thandai,Accessories,58,195,11310,North,46-60,Other,Buy1Get1,UPI,5
+24,April,2024,P0055,Color Bombs,Accessories,27,426,11502,North,26-35,Female,Buy1Get1,Card,5
+8,May,2024,P0055,Color Bombs,Accessories,80,373,29840,North,18-25,Other,Discount,UPI,2
+7,August,2024,P0097,Water Gun,Colors,15,452,6780,East,18-25,Female,None,Card,3
+3,May,2024,P0018,Organic Colors,Accessories,35,104,3640,East,26-35,Other,Discount,Cash,2
+17,August,2023,P0063,Water Gun,Accessories,76,387,29412,East,46-60,Male,Discount,UPI,5
+1,October,2023,P0092,Gulal,Sweets,53,20,1060,South,46-60,Other,Discount,UPI,3
+16,January,2023,P0047,Organic Colors,Accessories,44,77,3388,West,46-60,Other,Buy1Get1,Card,3
+12,December,2023,P0075,Thandai,Accessories,26,388,10088,East,18-25,Female,Discount,Card,5
+27,October,2023,P0057,Color Powder,Sweets,47,219,10293,South,18-25,Other,None,Card,3
+19,September,2024,P0045,Thandai,Sweets,34,205,6970,East,46-60,Male,Discount,Card,3
+22,June,2023,P0033,Color Bombs,Colors,87,378,32886,East,36-45,Male,Buy1Get1,UPI,2
+23,March,2024,P0017,Gulal,Sweets,95,107,10165,North,46-60,Other,None,Cash,3
+22,August,2024,P0070,Pichkari,Colors,50,102,5100,North,26-35,Other,None,Cash,5
+14,September,2024,P0004,Gulal,Sweets,84,481,40404,North,18-25,Male,None,Cash,1
+30,June,2024,P0020,Sweets,Sweets,12,31,372,South,26-35,Female,None,Cash,1
+6,November,2023,P0047,Gulal,Colors,87,459,39933,West,26-35,Male,Discount,Card,1
+6,July,2024,P0091,Thandai,Sweets,4,181,724,West,18-25,Male,Buy1Get1,UPI,5
+13,January,2024,P0015,Sweets,Colors,87,392,34104,South,36-45,Other,None,UPI,1
+19,May,2024,P0070,Sweets,Sweets,48,143,6864,East,46-60,Other,None,UPI,2
+22,May,2023,P0047,Organic Colors,Accessories,55,435,23925,South,26-35,Male,Buy1Get1,Card,5
+8,October,2023,P0078,Organic Colors,Sweets,1,34,34,East,18-25,Female,Discount,UPI,5
+27,April,2023,P0075,Sweets,Colors,89,194,17266,South,26-35,Male,None,Card,5
+27,June,2024,P0009,Pichkari,Sweets,66,94,6204,South,46-60,Male,Discount,UPI,3
+2,July,2024,P0090,Organic Colors,Colors,30,64,1920,South,36-45,Female,Discount,Cash,3
+21,September,2023,P0016,Gulal,Colors,3,260,780,West,36-45,Male,Discount,Card,3
+30,January,2024,P0069,Thandai,Accessories,21,153,3213,North,36-45,Male,Discount,UPI,4
+1,June,2023,P0061,Gulal,Accessories,89,360,32040,South,18-25,Other,None,Cash,2
+28,July,2023,P0010,Pichkari,Colors,84,407,34188,West,18-25,Female,None,Cash,5
+15,March,2024,P0050,Color Bombs,Sweets,49,176,8624,North,36-45,Other,Discount,Cash,5
+1,August,2024,P0003,Water Gun,Colors,86,421,36206,North,46-60,Other,Discount,Card,3
+5,May,2024,P0077,Thandai,Colors,85,233,19805,South,46-60,Female,Buy1Get1,Card,5
+28,September,2024,P0094,Organic Colors,Sweets,62,229,14198,East,18-25,Female,Buy1Get1,UPI,5
+29,May,2023,P0070,Thandai,Sweets,97,188,18236,East,36-45,Male,Buy1Get1,Cash,1
+16,September,2023,P0081,Gulal,Sweets,38,128,4864,East,46-60,Other,None,UPI,5
+19,October,2023,P0051,Water Gun,Sweets,15,442,6630,South,46-60,Female,Buy1Get1,UPI,4
+4,April,2023,P0019,Color Powder,Colors,52,274,14248,East,46-60,Other,None,Cash,3
+3,September,2023,P0042,Color Powder,Colors,79,451,35629,West,18-25,Other,None,UPI,2
+17,May,2024,P0035,Organic Colors,Accessories,46,438,20148,West,36-45,Female,None,Card,2
+17,October,2023,P0046,Pichkari,Colors,25,159,3975,West,26-35,Male,None,UPI,1
+12,September,2023,P0026,Color Powder,Sweets,21,425,8925,West,36-45,Other,Buy1Get1,Cash,2
+28,March,2023,P0069,Thandai,Accessories,88,462,40656,North,36-45,Female,Discount,Card,2
+30,April,2024,P0093,Color Powder,Sweets,5,224,1120,West,18-25,Male,Discount,Card,3
+29,September,2024,P0064,Color Bombs,Colors,70,206,14420,East,46-60,Other,Discount,UPI,3
+14,October,2024,P0037,Color Bombs,Accessories,47,51,2397,South,46-60,Female,Buy1Get1,UPI,4
+21,November,2024,P0084,Organic Colors,Sweets,87,62,5394,East,18-25,Other,Discount,Card,1
+6,June,2023,P0049,Color Bombs,Accessories,68,489,33252,West,18-25,Female,Buy1Get1,UPI,2
+3,February,2023,P0021,Color Powder,Accessories,91,452,41132,North,18-25,Female,Buy1Get1,Cash,4
+28,July,2024,P0074,Pichkari,Colors,18,339,6102,West,18-25,Other,Buy1Get1,UPI,1
+9,February,2024,P0064,Sweets,Sweets,21,260,5460,South,18-25,Other,Discount,UPI,2
+5,November,2023,P0005,Sweets,Accessories,92,304,27968,East,26-35,Female,Discount,Card,2
+24,February,2023,P0100,Organic Colors,Accessories,99,387,38313,South,36-45,Male,Discount,UPI,3
+29,November,2024,P0070,Water Gun,Sweets,86,280,24080,South,36-45,Other,None,UPI,5
+17,January,2024,P0090,Sweets,Accessories,23,464,10672,South,36-45,Female,Buy1Get1,UPI,1
+14,November,2024,P0004,Sweets,Accessories,64,422,27008,East,46-60,Female,None,Cash,2
+21,November,2024,P0039,Color Bombs,Accessories,67,132,8844,West,26-35,Male,Buy1Get1,UPI,1
+31,December,2023,P0035,Color Bombs,Sweets,40,376,15040,South,36-45,Male,Discount,Cash,4
+3,November,2023,P0001,Color Powder,Sweets,10,396,3960,East,46-60,Male,Buy1Get1,Cash,4
+28,March,2023,P0024,Organic Colors,Sweets,89,348,30972,North,26-35,Other,Buy1Get1,Cash,5
+1,June,2024,P0057,Water Gun,Sweets,52,275,14300,East,26-35,Female,None,Cash,2
+20,August,2024,P0100,Organic Colors,Colors,72,357,25704,North,46-60,Female,Buy1Get1,Card,3
+31,September,2023,P0070,Gulal,Accessories,75,38,2850,East,26-35,Female,Discount,Cash,2
+29,July,2023,P0041,Thandai,Sweets,61,472,28792,West,46-60,Male,Buy1Get1,UPI,1
+21,April,2023,P0054,Water Gun,Accessories,64,44,2816,South,36-45,Female,Buy1Get1,Cash,4
+23,June,2023,P0046,Water Gun,Accessories,5,15,75,West,46-60,Other,Buy1Get1,UPI,1
+1,May,2024,P0060,Pichkari,Colors,53,405,21465,East,26-35,Male,None,Cash,5
+3,August,2023,P0060,Organic Colors,Sweets,55,120,6600,South,36-45,Male,Buy1Get1,Card,4
+18,January,2023,P0057,Color Powder,Sweets,37,303,11211,North,36-45,Male,Buy1Get1,Cash,3
+25,January,2023,P0031,Pichkari,Accessories,56,86,4816,East,18-25,Male,None,Cash,4
+10,November,2023,P0084,Water Gun,Sweets,59,358,21122,South,18-25,Other,None,Card,2
+31,June,2023,P0024,Water Gun,Accessories,93,156,14508,North,26-35,Female,None,Cash,2
+22,October,2023,P0089,Water Gun,Accessories,69,76,5244,North,46-60,Other,None,UPI,4
+26,December,2023,P0036,Sweets,Colors,73,401,29273,West,46-60,Female,Discount,Cash,5
+3,February,2024,P0085,Organic Colors,Colors,59,17,1003,East,26-35,Other,Discount,Cash,2
+8,May,2024,P0030,Thandai,Colors,2,131,262,North,36-45,Male,Buy1Get1,Cash,2
+14,January,2024,P0024,Thandai,Accessories,65,349,22685,South,26-35,Male,Discount,Card,3
+24,July,2024,P0030,Pichkari,Sweets,60,184,11040,North,26-35,Other,Buy1Get1,Cash,4
+18,January,2023,P0086,Water Gun,Colors,51,397,20247,North,36-45,Other,Discount,Cash,2
+15,April,2024,P0092,Thandai,Sweets,30,188,5640,West,46-60,Female,None,UPI,5
+22,September,2024,P0007,Color Bombs,Colors,11,94,1034,West,26-35,Other,None,Cash,1
+23,January,2023,P0035,Organic Colors,Colors,92,460,42320,South,46-60,Other,Discount,Cash,4
+2,April,2023,P0055,Thandai,Accessories,76,54,4104,West,26-35,Female,Discount,Cash,3
+31,June,2024,P0092,Color Powder,Colors,39,145,5655,North,36-45,Female,Buy1Get1,Cash,2
+27,June,2024,P0014,Organic Colors,Colors,90,352,31680,North,36-45,Female,Buy1Get1,UPI,5
+10,December,2023,P0010,Color Powder,Accessories,77,25,1925,West,18-25,Other,Buy1Get1,UPI,4
+2,August,2024,P0080,Thandai,Sweets,72,342,24624,North,36-45,Female,None,Card,5
+26,January,2023,P0016,Color Bombs,Colors,63,204,12852,North,18-25,Male,None,Cash,5
+17,July,2023,P0054,Color Powder,Accessories,64,18,1152,South,26-35,Male,None,Card,3
+8,January,2023,P0095,Sweets,Colors,61,325,19825,West,46-60,Male,None,Card,4
+1,July,2023,P0089,Thandai,Accessories,54,343,18522,North,36-45,Other,Buy1Get1,Cash,2
+9,March,2024,P0077,Sweets,Sweets,92,342,31464,West,36-45,Male,None,UPI,3
+11,November,2023,P0070,Thandai,Sweets,94,336,31584,South,36-45,Other,None,UPI,2
+22,August,2023,P0044,Gulal,Accessories,73,24,1752,West,26-35,Other,None,Cash,1
+16,March,2024,P0073,Gulal,Accessories,95,336,31920,North,18-25,Male,None,Cash,5
+7,January,2023,P0045,Gulal,Accessories,58,111,6438,West,26-35,Female,Discount,UPI,1
+29,August,2024,P0100,Color Powder,Sweets,85,235,19975,North,46-60,Other,Buy1Get1,Cash,5
+10,March,2024,P0056,Sweets,Colors,56,434,24304,North,26-35,Male,Buy1Get1,Cash,3
+23,February,2024,P0084,Sweets,Sweets,34,287,9758,North,46-60,Other,None,Cash,2
+26,January,2023,P0082,Sweets,Accessories,31,417,12927,South,36-45,Female,Discount,UPI,2
+3,March,2024,P0057,Color Bombs,Accessories,52,122,6344,West,46-60,Female,Buy1Get1,Card,3
+18,February,2024,P0021,Sweets,Sweets,89,494,43966,South,46-60,Male,Buy1Get1,Card,4
+25,February,2023,P0068,Color Bombs,Accessories,76,437,33212,West,18-25,Other,None,Cash,1
+24,June,2024,P0050,Gulal,Sweets,1,10,10,South,46-60,Other,None,UPI,1
+13,December,2024,P0033,Gulal,Accessories,55,275,15125,East,46-60,Other,Buy1Get1,Cash,2
+28,January,2024,P0091,Color Powder,Colors,22,217,4774,North,26-35,Other,Buy1Get1,UPI,2
+26,February,2024,P0007,Thandai,Colors,40,119,4760,North,36-45,Male,Discount,Cash,2
+7,June,2024,P0070,Gulal,Accessories,1,209,209,South,26-35,Female,Buy1Get1,UPI,3
+25,March,2023,P0015,Thandai,Sweets,65,449,29185,East,26-35,Male,Buy1Get1,UPI,4
+4,April,2024,P0082,Thandai,Colors,63,378,23814,North,36-45,Other,None,Card,1
+13,January,2024,P0032,Organic Colors,Sweets,54,482,26028,West,36-45,Other,Buy1Get1,Cash,5
+20,August,2023,P0075,Color Powder,Accessories,42,315,13230,South,46-60,Female,None,Card,3
+1,July,2023,P0020,Water Gun,Sweets,21,21,441,North,46-60,Other,Buy1Get1,Card,1
+8,July,2023,P0088,Water Gun,Colors,79,354,27966,North,18-25,Male,Buy1Get1,UPI,4
+14,March,2024,P0015,Pichkari,Sweets,81,474,38394,South,26-35,Male,Buy1Get1,Cash,3
+16,October,2023,P0048,Organic Colors,Sweets,22,197,4334,South,36-45,Female,Discount,UPI,1
+14,October,2024,P0071,Color Powder,Accessories,38,163,6194,West,46-60,Male,None,UPI,3
+12,March,2024,P0021,Pichkari,Accessories,99,377,37323,West,36-45,Male,Discount,UPI,1
+19,February,2023,P0042,Pichkari,Accessories,80,343,27440,North,46-60,Male,Buy1Get1,Cash,1
+23,December,2023,P0026,Organic Colors,Colors,8,434,3472,North,18-25,Male,Discount,Cash,4
+15,January,2024,P0014,Water Gun,Colors,62,429,26598,South,18-25,Other,None,UPI,5
+28,July,2023,P0057,Color Powder,Accessories,47,386,18142,North,36-45,Male,Buy1Get1,Cash,4
+2,July,2024,P0037,Water Gun,Accessories,17,288,4896,North,18-25,Female,Discount,UPI,1
+2,December,2023,P0058,Pichkari,Colors,17,180,3060,South,36-45,Female,Discount,Cash,3
+23,February,2023,P0021,Color Powder,Colors,90,143,12870,North,46-60,Male,None,Cash,4
+31,July,2023,P0082,Pichkari,Colors,13,462,6006,North,26-35,Female,Discount,Card,5
+22,August,2024,P0069,Sweets,Colors,17,436,7412,East,18-25,Male,None,UPI,1
+19,January,2023,P0003,Organic Colors,Accessories,38,34,1292,West,46-60,Female,Buy1Get1,Card,4
+25,September,2024,P0087,Thandai,Colors,81,27,2187,South,26-35,Female,Buy1Get1,Card,4
+26,July,2024,P0090,Color Powder,Accessories,78,199,15522,East,26-35,Male,Discount,UPI,4
+31,March,2024,P0037,Color Powder,Sweets,45,150,6750,West,26-35,Male,Buy1Get1,UPI,4
+30,August,2024,P0088,Thandai,Sweets,6,52,312,West,46-60,Other,Buy1Get1,Cash,3
+29,July,2023,P0049,Pichkari,Colors,35,343,12005,West,46-60,Male,Discount,UPI,5
+22,November,2024,P0019,Sweets,Sweets,14,293,4102,East,36-45,Male,Buy1Get1,Card,5
+26,August,2024,P0089,Color Bombs,Sweets,72,155,11160,East,26-35,Other,Discount,Card,1
+26,June,2023,P0085,Thandai,Sweets,61,324,19764,West,26-35,Male,None,UPI,2
+22,September,2024,P0012,Organic Colors,Colors,15,453,6795,North,26-35,Male,None,Card,3
+17,May,2023,P0061,Water Gun,Colors,54,328,17712,North,36-45,Other,None,Cash,1
+20,March,2024,P0041,Pichkari,Sweets,27,450,12150,East,26-35,Male,Discount,Card,1
+10,March,2023,P0033,Thandai,Accessories,13,101,1313,East,46-60,Male,Discount,Cash,4
+6,January,2024,P0050,Thandai,Sweets,31,188,5828,East,26-35,Other,Buy1Get1,Card,2
+15,December,2023,P0068,Color Powder,Colors,35,65,2275,West,18-25,Other,Buy1Get1,Cash,2
+22,August,2024,P0071,Water Gun,Colors,60,164,9840,North,46-60,Female,Buy1Get1,Cash,3
+11,February,2024,P0086,Water Gun,Colors,6,169,1014,East,36-45,Male,Buy1Get1,UPI,2
+28,March,2023,P0033,Organic Colors,Sweets,69,120,8280,East,26-35,Female,Buy1Get1,Cash,1
+5,August,2023,P0081,Water Gun,Accessories,86,146,12556,South,18-25,Female,Discount,UPI,2
+1,August,2023,P0024,Thandai,Colors,58,241,13978,West,36-45,Other,Discount,Card,2
+8,November,2023,P0061,Color Bombs,Colors,49,489,23961,South,36-45,Male,None,Card,5
+21,April,2024,P0061,Gulal,Sweets,23,477,10971,North,46-60,Male,None,Card,1
+28,April,2024,P0098,Pichkari,Accessories,89,229,20381,South,36-45,Other,None,Cash,2
+12,May,2023,P0028,Gulal,Sweets,34,490,16660,South,36-45,Female,None,Card,2
+12,June,2024,P0058,Thandai,Colors,26,77,2002,South,36-45,Other,Discount,Card,4
+5,May,2023,P0043,Gulal,Accessories,47,311,14617,West,36-45,Male,Discount,UPI,2
+7,July,2023,P0041,Thandai,Accessories,5,258,1290,North,26-35,Other,Discount,UPI,2
+4,February,2024,P0039,Gulal,Colors,90,491,44190,South,26-35,Male,Buy1Get1,Card,5
+6,July,2024,P0086,Water Gun,Accessories,20,332,6640,West,26-35,Female,Buy1Get1,Card,1
+13,October,2024,P0049,Sweets,Accessories,6,419,2514,North,26-35,Male,None,Cash,3
+20,July,2024,P0017,Water Gun,Sweets,70,401,28070,East,18-25,Female,Buy1Get1,Cash,1
+30,January,2024,P0098,Water Gun,Colors,59,15,885,South,26-35,Female,Discount,Card,4
+15,July,2024,P0070,Organic Colors,Colors,64,473,30272,North,36-45,Male,None,UPI,1
+3,May,2024,P0070,Color Powder,Colors,18,289,5202,South,26-35,Male,None,Card,2
+23,March,2023,P0098,Color Powder,Colors,4,441,1764,East,26-35,Female,Buy1Get1,Cash,4
+8,March,2023,P0065,Gulal,Colors,17,496,8432,North,46-60,Other,None,UPI,1
+20,April,2023,P0074,Thandai,Accessories,14,103,1442,West,36-45,Male,Buy1Get1,UPI,4
+16,December,2023,P0085,Organic Colors,Sweets,78,438,34164,North,26-35,Female,Buy1Get1,Cash,3
+13,February,2023,P0005,Water Gun,Colors,13,278,3614,West,26-35,Female,None,Card,1
+18,February,2024,P0002,Organic Colors,Sweets,7,206,1442,North,26-35,Other,Buy1Get1,Card,2
+28,January,2023,P0022,Gulal,Sweets,44,34,1496,West,18-25,Male,Buy1Get1,Card,4
+10,May,2023,P0057,Color Powder,Accessories,15,157,2355,East,26-35,Female,Buy1Get1,Cash,5
+30,April,2023,P0066,Sweets,Colors,19,127,2413,East,46-60,Other,Buy1Get1,UPI,4
+19,November,2023,P0074,Pichkari,Accessories,63,347,21861,East,36-45,Female,None,Cash,5
+17,October,2023,P0098,Gulal,Colors,35,376,13160,North,36-45,Male,Discount,Card,2
+24,February,2023,P0016,Organic Colors,Accessories,81,347,28107,East,26-35,Other,Discount,Cash,3
+31,March,2023,P0051,Sweets,Sweets,35,75,2625,South,26-35,Female,Buy1Get1,UPI,5
+19,July,2024,P0039,Pichkari,Colors,19,467,8873,East,26-35,Other,Buy1Get1,Cash,3
+28,July,2024,P0086,Color Bombs,Sweets,20,310,6200,West,36-45,Male,Buy1Get1,Card,4
+26,December,2023,P0076,Gulal,Sweets,35,379,13265,West,36-45,Other,Discount,UPI,2
+23,April,2024,P0088,Gulal,Accessories,32,184,5888,West,18-25,Male,Buy1Get1,Cash,5
+26,May,2024,P0040,Color Bombs,Colors,48,328,15744,North,46-60,Female,None,Cash,4
+5,May,2024,P0038,Color Bombs,Sweets,44,85,3740,South,18-25,Male,None,UPI,1
+26,June,2024,P0060,Gulal,Accessories,24,470,11280,East,46-60,Female,None,UPI,4
+21,September,2023,P0059,Color Bombs,Colors,61,123,7503,South,18-25,Female,Discount,Card,3
+30,February,2024,P0010,Water Gun,Colors,17,120,2040,South,36-45,Male,Buy1Get1,UPI,2
+23,May,2024,P0099,Pichkari,Sweets,71,258,18318,West,18-25,Female,Buy1Get1,Card,2
+31,December,2024,P0064,Pichkari,Colors,50,448,22400,West,46-60,Other,Buy1Get1,Cash,4
+9,March,2023,P0063,Pichkari,Sweets,65,212,13780,West,26-35,Female,Discount,Card,1
+12,April,2023,P0049,Water Gun,Colors,99,156,15444,North,46-60,Male,Discount,Cash,3
+21,October,2023,P0064,Thandai,Accessories,32,44,1408,South,26-35,Other,Discount,UPI,4
+1,June,2023,P0032,Color Bombs,Sweets,36,496,17856,South,36-45,Other,Discount,Cash,4
+26,December,2023,P0007,Sweets,Sweets,13,318,4134,North,46-60,Female,None,UPI,2
+26,August,2023,P0021,Color Bombs,Colors,70,35,2450,North,18-25,Female,Discount,Cash,3
+1,January,2023,P0020,Gulal,Colors,58,247,14326,North,46-60,Male,Discount,Cash,1
+15,October,2024,P0026,Color Powder,Sweets,14,23,322,South,26-35,Other,Discount,Cash,2
+2,August,2024,P0068,Organic Colors,Colors,37,383,14171,South,36-45,Male,Buy1Get1,Cash,4
+30,November,2024,P0086,Organic Colors,Accessories,79,54,4266,West,18-25,Female,Buy1Get1,Card,2
+22,July,2023,P0015,Pichkari,Colors,68,437,29716,West,46-60,Other,Buy1Get1,Cash,2
+16,January,2023,P0085,Color Bombs,Accessories,40,225,9000,South,26-35,Male,None,Card,5
+25,February,2023,P0079,Sweets,Accessories,59,242,14278,West,18-25,Male,None,UPI,2
+8,March,2023,P0086,Gulal,Accessories,80,202,16160,North,36-45,Male,Discount,UPI,2
+13,January,2023,P0092,Water Gun,Accessories,92,60,5520,East,18-25,Male,Buy1Get1,Card,3
+21,September,2024,P0014,Thandai,Accessories,16,436,6976,West,36-45,Male,None,UPI,2
+1,August,2024,P0027,Water Gun,Colors,62,384,23808,South,18-25,Other,Buy1Get1,UPI,1
+16,February,2023,P0040,Sweets,Accessories,4,223,892,West,46-60,Male,None,Cash,4
+29,September,2023,P0058,Gulal,Colors,45,160,7200,West,26-35,Other,None,Cash,3
+7,July,2023,P0028,Pichkari,Accessories,90,449,40410,West,46-60,Male,Discount,Cash,2
+31,September,2023,P0026,Color Bombs,Sweets,28,284,7952,East,46-60,Female,Discount,Card,1
+5,June,2024,P0063,Gulal,Accessories,96,347,33312,North,36-45,Female,None,Card,4
+22,June,2023,P0066,Organic Colors,Sweets,66,85,5610,South,36-45,Male,Discount,UPI,3
+29,November,2023,P0025,Thandai,Accessories,31,448,13888,East,36-45,Female,None,Cash,1
+23,April,2023,P0003,Water Gun,Accessories,3,229,687,South,46-60,Other,None,Card,2
+3,October,2023,P0072,Thandai,Accessories,8,357,2856,South,18-25,Male,Buy1Get1,Card,5
+12,October,2024,P0044,Thandai,Sweets,24,453,10872,South,18-25,Other,Discount,Cash,5
+26,February,2023,P0097,Sweets,Sweets,15,196,2940,East,46-60,Male,Discount,Card,3
+16,July,2023,P0042,Sweets,Accessories,43,298,12814,North,46-60,Female,Discount,Cash,1
+19,May,2024,P0099,Color Bombs,Colors,31,412,12772,South,26-35,Other,Buy1Get1,UPI,4
+5,November,2024,P0006,Sweets,Accessories,73,37,2701,North,36-45,Female,Buy1Get1,UPI,1
+22,June,2024,P0039,Sweets,Sweets,45,388,17460,North,36-45,Female,Buy1Get1,UPI,5
+25,February,2023,P0052,Gulal,Accessories,66,189,12474,West,46-60,Male,Discount,Cash,3
+29,May,2023,P0023,Organic Colors,Sweets,8,262,2096,East,46-60,Other,Discount,Card,2
+14,October,2024,P0089,Pichkari,Sweets,71,135,9585,East,18-25,Female,Discount,UPI,1
+28,April,2024,P0050,Color Bombs,Sweets,57,186,10602,West,46-60,Male,Buy1Get1,UPI,5
+5,September,2024,P0043,Gulal,Accessories,80,46,3680,West,18-25,Male,Buy1Get1,UPI,4
+15,June,2024,P0019,Pichkari,Sweets,99,419,41481,North,46-60,Male,None,Card,3
+17,February,2024,P0069,Thandai,Sweets,30,108,3240,South,26-35,Female,Buy1Get1,Card,2
+30,January,2024,P0051,Gulal,Accessories,74,107,7918,East,26-35,Male,None,Cash,1
+14,May,2023,P0011,Color Powder,Sweets,18,136,2448,South,18-25,Other,Discount,UPI,4
+30,September,2023,P0012,Gulal,Accessories,69,492,33948,South,36-45,Other,Buy1Get1,Card,2
+20,June,2023,P0074,Sweets,Sweets,93,177,16461,West,26-35,Female,Discount,Cash,5
+5,October,2024,P0008,Pichkari,Colors,39,89,3471,South,18-25,Other,Discount,UPI,5
+12,December,2024,P0024,Color Bombs,Colors,60,303,18180,North,46-60,Male,Discount,Card,4
+16,July,2024,P0092,Color Bombs,Sweets,98,342,33516,West,46-60,Female,Discount,Card,5
+26,May,2024,P0041,Pichkari,Colors,43,135,5805,South,18-25,Male,Buy1Get1,Cash,3
+26,October,2024,P0036,Sweets,Accessories,45,352,15840,West,36-45,Female,Discount,UPI,4
+16,June,2024,P0085,Water Gun,Colors,23,319,7337,North,18-25,Female,None,UPI,5
+21,May,2023,P0072,Gulal,Sweets,69,159,10971,North,18-25,Male,Buy1Get1,Card,1
+7,November,2023,P0055,Sweets,Sweets,94,25,2350,South,26-35,Other,Discount,UPI,5
+4,September,2024,P0009,Color Powder,Accessories,6,37,222,West,18-25,Other,Buy1Get1,Cash,3
+1,June,2023,P0047,Organic Colors,Sweets,56,428,23968,South,18-25,Female,None,Card,2
+30,November,2024,P0015,Thandai,Accessories,4,453,1812,South,46-60,Male,Discount,Card,2
+30,August,2023,P0048,Pichkari,Colors,93,182,16926,West,26-35,Male,None,Cash,5
+5,February,2024,P0082,Organic Colors,Colors,23,55,1265,South,46-60,Female,Discount,Card,2
+23,December,2024,P0042,Gulal,Accessories,6,337,2022,North,46-60,Other,None,UPI,5
+26,September,2023,P0060,Color Bombs,Accessories,32,245,7840,West,36-45,Male,Discount,UPI,3
+10,May,2023,P0084,Thandai,Sweets,18,448,8064,West,36-45,Other,Buy1Get1,Card,2
+22,July,2024,P0070,Organic Colors,Colors,15,223,3345,West,26-35,Other,Discount,Cash,1
+5,October,2024,P0012,Water Gun,Accessories,40,94,3760,West,26-35,Female,Buy1Get1,Cash,5
+4,January,2023,P0002,Organic Colors,Colors,96,291,27936,South,36-45,Female,Discount,UPI,2
+2,October,2023,P0007,Color Powder,Accessories,73,241,17593,South,36-45,Other,Discount,Cash,3
+20,May,2024,P0080,Color Bombs,Colors,74,94,6956,North,36-45,Male,None,Card,3
+31,December,2023,P0003,Pichkari,Sweets,84,418,35112,East,36-45,Male,None,Card,1
+10,October,2024,P0003,Gulal,Colors,6,498,2988,East,36-45,Female,None,UPI,3
+26,February,2024,P0027,Pichkari,Colors,63,74,4662,North,46-60,Other,Discount,UPI,3
+19,December,2024,P0040,Thandai,Colors,67,143,9581,East,26-35,Male,Discount,UPI,2
+26,June,2024,P0033,Gulal,Colors,11,160,1760,North,46-60,Male,Discount,Cash,5
+1,November,2023,P0092,Sweets,Colors,43,124,5332,South,46-60,Female,Buy1Get1,Card,4
+24,January,2023,P0001,Water Gun,Sweets,17,73,1241,West,18-25,Other,Buy1Get1,Card,3
+5,March,2023,P0008,Sweets,Accessories,96,352,33792,West,46-60,Male,Discount,Card,3
+13,May,2023,P0032,Sweets,Colors,4,436,1744,South,36-45,Female,None,UPI,4
+4,April,2023,P0048,Pichkari,Sweets,63,372,23436,West,36-45,Male,None,Card,3
+16,March,2023,P0004,Thandai,Colors,68,416,28288,West,18-25,Male,None,Cash,2
+24,October,2023,P0094,Water Gun,Colors,81,361,29241,East,18-25,Male,Discount,Cash,2
+16,May,2024,P0070,Organic Colors,Accessories,41,167,6847,South,18-25,Female,None,Card,4
+23,November,2023,P0019,Gulal,Colors,83,86,7138,East,18-25,Other,Discount,UPI,3
+2,August,2023,P0032,Gulal,Sweets,5,155,775,East,18-25,Female,Buy1Get1,Card,3
+17,November,2024,P0009,Color Powder,Sweets,32,352,11264,West,46-60,Other,None,Cash,5
+28,April,2023,P0012,Color Bombs,Accessories,86,472,40592,West,18-25,Male,Buy1Get1,Cash,3
+27,January,2023,P0011,Color Powder,Colors,70,234,16380,South,46-60,Other,None,Cash,2
+20,November,2024,P0046,Organic Colors,Sweets,35,414,14490,West,26-35,Male,Discount,Card,1
+24,July,2023,P0016,Color Powder,Colors,22,322,7084,West,18-25,Male,Discount,Cash,1
+12,August,2023,P0001,Gulal,Colors,65,112,7280,South,18-25,Female,Discount,UPI,1
+18,March,2023,P0063,Pichkari,Colors,84,416,34944,West,46-60,Male,Discount,Card,1
+3,June,2024,P0021,Sweets,Accessories,22,356,7832,East,26-35,Female,None,Card,3
+28,February,2023,P0030,Thandai,Colors,11,310,3410,South,46-60,Other,Buy1Get1,Cash,3
+1,July,2023,P0013,Sweets,Sweets,77,437,33649,West,46-60,Other,Discount,Cash,5
+1,August,2024,P0034,Sweets,Colors,3,475,1425,North,18-25,Male,None,UPI,3
+29,June,2023,P0004,Water Gun,Sweets,9,97,873,South,36-45,Female,Buy1Get1,Card,1
+19,June,2024,P0028,Gulal,Colors,60,380,22800,South,36-45,Male,Discount,Cash,4
+11,May,2024,P0095,Organic Colors,Sweets,76,312,23712,North,46-60,Female,Buy1Get1,UPI,4
+5,August,2023,P0059,Organic Colors,Sweets,87,177,15399,West,18-25,Female,Discount,Cash,2
+12,January,2024,P0027,Thandai,Colors,14,444,6216,West,26-35,Female,Buy1Get1,Card,2
+3,October,2024,P0069,Pichkari,Colors,97,179,17363,South,36-45,Other,Buy1Get1,Cash,3
+1,April,2023,P0025,Water Gun,Sweets,18,144,2592,South,26-35,Female,Discount,Card,4
+1,April,2024,P0003,Color Bombs,Accessories,73,59,4307,West,36-45,Other,None,Cash,1
+8,March,2024,P0097,Pichkari,Colors,23,441,10143,West,18-25,Female,Buy1Get1,Card,1
+10,March,2023,P0068,Color Powder,Accessories,74,349,25826,East,46-60,Other,Discount,UPI,1
+11,April,2023,P0025,Pichkari,Colors,83,356,29548,South,26-35,Other,Buy1Get1,Card,3
+12,November,2023,P0020,Pichkari,Colors,47,143,6721,South,26-35,Other,Buy1Get1,UPI,3
+29,January,2024,P0034,Sweets,Colors,69,356,24564,North,46-60,Male,None,Card,5
+13,November,2023,P0026,Pichkari,Colors,47,146,6862,East,26-35,Female,Buy1Get1,UPI,1
+12,November,2024,P0005,Organic Colors,Accessories,87,254,22098,West,36-45,Male,Buy1Get1,Cash,1
+31,February,2024,P0099,Color Powder,Colors,30,118,3540,East,46-60,Female,Discount,Card,3
+14,September,2024,P0061,Color Powder,Sweets,25,322,8050,West,36-45,Female,Discount,Cash,3
+2,October,2024,P0092,Gulal,Sweets,28,296,8288,West,36-45,Male,None,UPI,5
+29,February,2024,P0093,Pichkari,Accessories,98,30,2940,East,18-25,Other,Buy1Get1,Card,5
+19,May,2024,P0009,Sweets,Colors,25,99,2475,South,36-45,Female,Buy1Get1,Card,2
+18,September,2024,P0050,Pichkari,Sweets,74,305,22570,West,18-25,Other,Buy1Get1,Cash,4
+3,September,2023,P0006,Color Bombs,Accessories,78,121,9438,East,26-35,Male,None,Card,1
+23,August,2023,P0083,Color Bombs,Colors,58,310,17980,North,26-35,Other,Buy1Get1,Card,1
+17,January,2024,P0060,Sweets,Sweets,94,86,8084,East,18-25,Female,Discount,Cash,5
+26,January,2024,P0044,Gulal,Sweets,41,186,7626,North,36-45,Female,None,Card,5
+8,September,2023,P0011,Gulal,Accessories,25,352,8800,West,46-60,Female,Discount,Cash,2
+29,November,2024,P0066,Color Powder,Colors,78,157,12246,East,46-60,Male,Discount,Cash,4
+26,August,2023,P0047,Color Powder,Colors,99,110,10890,East,18-25,Female,None,Cash,2
+10,October,2023,P0073,Water Gun,Sweets,48,255,12240,North,26-35,Male,Discount,Cash,4
+26,September,2023,P0085,Sweets,Sweets,98,126,12348,East,26-35,Other,Buy1Get1,Cash,1
+30,July,2024,P0088,Pichkari,Sweets,10,101,1010,East,46-60,Female,None,UPI,2
+2,March,2024,P0098,Thandai,Colors,99,410,40590,West,18-25,Female,Discount,UPI,5
+19,March,2023,P0086,Sweets,Accessories,75,37,2775,East,46-60,Female,Buy1Get1,Cash,2
+9,February,2023,P0003,Water Gun,Accessories,11,434,4774,South,36-45,Other,Buy1Get1,UPI,2
+7,May,2023,P0076,Color Powder,Colors,85,459,39015,North,36-45,Female,Discount,UPI,1
+4,December,2023,P0092,Sweets,Accessories,21,34,714,East,18-25,Male,Buy1Get1,Card,5
+26,December,2023,P0030,Sweets,Sweets,86,67,5762,North,18-25,Other,None,Cash,5
+21,March,2024,P0090,Color Powder,Accessories,45,306,13770,North,36-45,Other,Discount,UPI,3
+18,June,2023,P0021,Organic Colors,Accessories,7,143,1001,North,26-35,Other,Buy1Get1,Card,3
+13,February,2024,P0028,Water Gun,Accessories,81,340,27540,East,18-25,Other,Buy1Get1,Card,3
+11,December,2023,P0090,Color Powder,Sweets,64,258,16512,East,36-45,Other,Discount,Cash,1
+29,March,2024,P0062,Gulal,Colors,64,47,3008,North,36-45,Male,Discount,Cash,2
+24,May,2024,P0033,Pichkari,Sweets,2,399,798,South,26-35,Other,Discount,Card,5
+4,December,2024,P0085,Color Powder,Colors,76,438,33288,North,26-35,Female,Discount,Cash,5
+25,November,2024,P0035,Water Gun,Colors,42,84,3528,South,26-35,Other,None,Cash,2
+21,November,2024,P0052,Color Bombs,Colors,82,151,12382,North,26-35,Other,Discount,Card,5
+29,January,2024,P0034,Gulal,Accessories,54,331,17874,West,46-60,Other,None,Card,2
+25,January,2023,P0041,Color Bombs,Accessories,75,177,13275,North,26-35,Other,None,Cash,1
+4,October,2024,P0051,Thandai,Colors,16,268,4288,North,46-60,Other,Discount,UPI,1
+10,September,2023,P0047,Color Powder,Colors,18,382,6876,East,18-25,Male,None,Cash,1
+5,July,2024,P0082,Gulal,Accessories,99,364,36036,South,36-45,Male,Discount,UPI,2
+9,January,2024,P0058,Pichkari,Sweets,59,234,13806,West,46-60,Other,Discount,Card,2
+24,December,2023,P0075,Color Powder,Colors,90,161,14490,South,18-25,Male,Buy1Get1,UPI,4
+3,August,2024,P0057,Pichkari,Sweets,16,28,448,West,18-25,Female,Discount,Card,5
+17,March,2023,P0023,Organic Colors,Accessories,6,155,930,North,46-60,Other,Buy1Get1,Cash,5
+3,August,2023,P0048,Sweets,Colors,57,457,26049,East,18-25,Female,None,Cash,4
+16,May,2023,P0022,Color Bombs,Sweets,47,250,11750,East,18-25,Female,Buy1Get1,Card,4
+4,January,2023,P0017,Gulal,Sweets,48,381,18288,South,46-60,Other,None,Card,1
+18,July,2024,P0069,Pichkari,Sweets,42,390,16380,East,18-25,Female,Discount,Card,4
+17,May,2024,P0011,Water Gun,Accessories,76,353,26828,South,26-35,Female,None,Cash,2
+7,June,2023,P0094,Pichkari,Accessories,60,246,14760,South,26-35,Female,None,Cash,3
+24,June,2024,P0015,Water Gun,Sweets,77,44,3388,West,36-45,Other,Discount,UPI,2
+23,August,2024,P0091,Color Powder,Sweets,4,199,796,South,18-25,Other,None,Card,4
+30,September,2023,P0035,Gulal,Accessories,2,10,20,West,36-45,Female,Discount,UPI,5
+5,February,2024,P0033,Pichkari,Sweets,90,493,44370,East,26-35,Other,Buy1Get1,Cash,2
+12,September,2023,P0084,Thandai,Sweets,59,162,9558,South,26-35,Other,Discount,UPI,5
+17,December,2023,P0016,Pichkari,Accessories,27,438,11826,South,26-35,Female,Discount,UPI,2
+23,November,2024,P0034,Organic Colors,Sweets,27,442,11934,North,18-25,Other,None,Cash,5
+13,October,2024,P0066,Thandai,Sweets,79,135,10665,South,18-25,Male,Buy1Get1,Cash,2
+23,September,2024,P0099,Gulal,Sweets,72,491,35352,South,26-35,Other,Discount,Card,5
+25,October,2023,P0040,Organic Colors,Accessories,7,354,2478,North,36-45,Male,Buy1Get1,UPI,3
+3,October,2023,P0028,Pichkari,Sweets,63,409,25767,North,36-45,Female,Buy1Get1,Cash,1
+9,July,2024,P0047,Water Gun,Accessories,46,235,10810,East,46-60,Other,None,Cash,2
+30,January,2024,P0039,Pichkari,Accessories,63,230,14490,South,26-35,Female,Discount,UPI,3
+17,July,2024,P0070,Color Bombs,Colors,12,412,4944,East,36-45,Female,None,Cash,1
+17,October,2024,P0073,Color Powder,Colors,13,416,5408,East,26-35,Female,Discount,Card,2
+30,May,2023,P0020,Sweets,Sweets,43,220,9460,North,36-45,Female,Buy1Get1,Card,3
+20,June,2024,P0001,Water Gun,Accessories,17,34,578,West,46-60,Female,Discount,UPI,3
+16,October,2023,P0072,Color Bombs,Colors,63,25,1575,East,46-60,Other,Discount,Card,3
+25,July,2023,P0087,Thandai,Sweets,81,191,15471,West,26-35,Male,Buy1Get1,Cash,4
+22,May,2024,P0063,Color Powder,Colors,36,338,12168,South,36-45,Other,Buy1Get1,Cash,5
+13,July,2024,P0067,Gulal,Colors,85,138,11730,North,18-25,Other,Discount,Cash,1
+27,September,2024,P0004,Water Gun,Accessories,8,51,408,South,46-60,Other,None,Cash,5
+19,March,2023,P0058,Sweets,Accessories,69,412,28428,South,26-35,Other,Discount,UPI,5
+17,August,2024,P0025,Color Powder,Colors,90,490,44100,North,26-35,Male,Buy1Get1,Card,5
+4,February,2024,P0047,Thandai,Colors,80,427,34160,South,36-45,Other,None,Card,3
+12,November,2023,P0038,Organic Colors,Accessories,36,345,12420,North,26-35,Female,Buy1Get1,Cash,5
+29,July,2024,P0015,Organic Colors,Sweets,28,245,6860,West,46-60,Other,Buy1Get1,UPI,4
+9,February,2023,P0063,Sweets,Accessories,93,369,34317,South,26-35,Other,None,Cash,2
+19,April,2024,P0021,Gulal,Colors,47,448,21056,North,26-35,Male,Buy1Get1,Cash,3
+12,July,2023,P0099,Gulal,Sweets,76,411,31236,East,18-25,Male,Buy1Get1,UPI,1
+9,March,2024,P0057,Thandai,Colors,30,43,1290,South,18-25,Female,Buy1Get1,UPI,2
+7,February,2024,P0053,Water Gun,Sweets,23,354,8142,West,46-60,Other,Buy1Get1,Cash,2
+28,November,2023,P0046,Thandai,Colors,16,390,6240,North,36-45,Other,Buy1Get1,Card,2
+14,October,2023,P0014,Pichkari,Sweets,14,54,756,South,18-25,Other,Buy1Get1,Cash,5
+31,July,2024,P0100,Gulal,Sweets,74,143,10582,South,36-45,Female,Buy1Get1,Card,5
+20,January,2023,P0076,Color Powder,Colors,71,30,2130,South,46-60,Male,Buy1Get1,Card,3
+19,August,2023,P0017,Pichkari,Sweets,52,131,6812,West,18-25,Female,Buy1Get1,UPI,5
+26,March,2023,P0039,Organic Colors,Accessories,37,79,2923,North,36-45,Other,Discount,UPI,5
+15,December,2023,P0009,Organic Colors,Colors,29,361,10469,East,18-25,Male,Discount,Cash,5
+16,December,2024,P0099,Color Bombs,Accessories,67,370,24790,East,46-60,Male,Buy1Get1,Card,3
+21,February,2024,P0077,Sweets,Colors,15,57,855,East,46-60,Female,Discount,Card,3
+5,March,2023,P0079,Pichkari,Sweets,47,48,2256,North,18-25,Male,None,Cash,4
+3,May,2023,P0082,Sweets,Sweets,46,296,13616,East,36-45,Male,Discount,Cash,4
+12,November,2023,P0097,Thandai,Sweets,52,499,25948,West,26-35,Other,Buy1Get1,Cash,4
+25,August,2023,P0006,Pichkari,Colors,19,19,361,North,26-35,Other,Buy1Get1,UPI,4
+20,October,2024,P0091,Thandai,Accessories,77,39,3003,South,18-25,Male,Discount,Cash,2
+27,July,2024,P0023,Color Bombs,Accessories,21,253,5313,West,36-45,Male,Buy1Get1,Cash,2
+21,July,2023,P0059,Gulal,Colors,64,283,18112,South,26-35,Female,None,Card,4
+4,December,2023,P0091,Organic Colors,Colors,37,453,16761,East,46-60,Female,None,Cash,4
+21,July,2023,P0098,Color Bombs,Accessories,27,97,2619,West,36-45,Male,Buy1Get1,Card,1
+23,August,2024,P0046,Organic Colors,Accessories,55,253,13915,North,26-35,Other,None,Card,2
+16,January,2023,P0038,Gulal,Accessories,29,390,11310,West,36-45,Male,None,UPI,1
+25,April,2024,P0014,Thandai,Accessories,20,338,6760,South,18-25,Male,Discount,Cash,1
+7,June,2023,P0100,Gulal,Colors,25,488,12200,North,36-45,Other,None,Cash,5
+13,September,2024,P0072,Organic Colors,Colors,70,24,1680,West,26-35,Other,Discount,Card,3
+21,February,2023,P0062,Organic Colors,Sweets,63,13,819,West,18-25,Female,Buy1Get1,UPI,2
+10,January,2024,P0035,Sweets,Accessories,36,200,7200,West,36-45,Female,Discount,UPI,4
+26,October,2023,P0019,Color Powder,Sweets,2,177,354,West,46-60,Female,Buy1Get1,Cash,4
+7,December,2023,P0030,Color Bombs,Colors,22,18,396,North,26-35,Female,Buy1Get1,Card,3
+14,February,2023,P0078,Pichkari,Colors,96,118,11328,South,18-25,Other,Buy1Get1,Cash,2
+31,July,2024,P0084,Organic Colors,Sweets,16,146,2336,West,36-45,Male,Buy1Get1,Cash,4
+26,March,2023,P0025,Color Bombs,Accessories,18,163,2934,North,46-60,Female,Buy1Get1,Cash,4
+5,October,2024,P0040,Sweets,Accessories,69,397,27393,South,26-35,Female,Discount,Cash,5
+3,February,2024,P0088,Gulal,Accessories,54,218,11772,West,46-60,Other,Buy1Get1,Card,1
+23,November,2023,P0014,Sweets,Accessories,30,281,8430,South,36-45,Other,None,UPI,4
+29,July,2023,P0026,Water Gun,Sweets,45,152,6840,South,36-45,Male,None,Cash,2
+11,February,2023,P0087,Water Gun,Sweets,19,108,2052,North,18-25,Male,Buy1Get1,Cash,3
+11,March,2024,P0022,Pichkari,Colors,87,386,33582,South,46-60,Other,None,Cash,5
+18,November,2023,P0048,Sweets,Accessories,34,317,10778,North,18-25,Female,Discount,Cash,2
+15,July,2024,P0083,Thandai,Accessories,13,78,1014,West,26-35,Female,Discount,UPI,5
+12,April,2024,P0051,Pichkari,Accessories,43,256,11008,South,18-25,Female,Buy1Get1,UPI,1
+9,January,2023,P0003,Thandai,Sweets,62,270,16740,South,26-35,Male,Buy1Get1,UPI,4
+10,May,2023,P0042,Pichkari,Accessories,93,285,26505,East,36-45,Female,Buy1Get1,UPI,2
+26,December,2023,P0019,Water Gun,Sweets,22,88,1936,West,36-45,Female,None,Cash,3
+12,September,2023,P0073,Pichkari,Accessories,52,155,8060,West,46-60,Other,None,Card,1
+17,August,2023,P0028,Water Gun,Accessories,52,120,6240,East,26-35,Female,Discount,UPI,1
+29,December,2023,P0084,Organic Colors,Colors,36,267,9612,East,36-45,Other,None,UPI,5
+6,September,2024,P0045,Gulal,Accessories,73,102,7446,North,46-60,Female,Discount,Cash,1
+7,October,2024,P0071,Thandai,Accessories,19,22,418,North,46-60,Male,None,Cash,2
+14,September,2024,P0078,Sweets,Colors,38,269,10222,South,18-25,Female,Discount,Cash,5
+13,July,2023,P0063,Organic Colors,Sweets,70,435,30450,South,46-60,Female,Buy1Get1,Cash,1
+8,April,2024,P0073,Organic Colors,Sweets,79,118,9322,South,36-45,Other,None,Card,3
+10,May,2024,P0019,Pichkari,Accessories,57,339,19323,South,18-25,Other,Discount,Card,2
+9,January,2024,P0047,Water Gun,Sweets,20,198,3960,North,26-35,Other,None,UPI,3
+18,January,2024,P0014,Color Bombs,Accessories,9,104,936,West,26-35,Female,Buy1Get1,Card,3
+27,March,2024,P0038,Thandai,Colors,32,114,3648,South,36-45,Female,Discount,UPI,5
+26,August,2023,P0053,Organic Colors,Colors,4,17,68,West,36-45,Male,None,UPI,4
+2,February,2023,P0061,Pichkari,Accessories,50,76,3800,South,18-25,Female,None,Card,5
+5,April,2024,P0036,Color Powder,Colors,82,200,16400,East,18-25,Male,Buy1Get1,UPI,2
+29,February,2024,P0040,Gulal,Colors,5,375,1875,South,36-45,Other,Buy1Get1,Cash,2
+5,May,2024,P0081,Gulal,Accessories,20,265,5300,South,36-45,Other,Discount,UPI,5
+6,September,2023,P0030,Color Bombs,Accessories,87,18,1566,South,26-35,Other,None,Cash,4
+19,January,2023,P0009,Water Gun,Colors,75,487,36525,North,26-35,Male,None,Card,5
+8,May,2024,P0064,Pichkari,Sweets,37,126,4662,East,26-35,Female,Buy1Get1,Card,2
+16,September,2023,P0033,Thandai,Sweets,22,276,6072,South,36-45,Other,Buy1Get1,UPI,4
+13,January,2023,P0052,Water Gun,Accessories,58,108,6264,South,46-60,Female,Discount,Cash,2
+1,September,2024,P0089,Gulal,Accessories,68,494,33592,West,36-45,Female,None,UPI,4
+22,August,2023,P0014,Water Gun,Sweets,93,307,28551,East,36-45,Other,None,Card,4
+20,April,2023,P0075,Gulal,Colors,44,406,17864,South,26-35,Male,Discount,UPI,5
+17,December,2024,P0053,Water Gun,Sweets,34,173,5882,West,36-45,Female,Discount,UPI,5
+31,November,2023,P0099,Color Bombs,Sweets,77,385,29645,West,18-25,Other,Buy1Get1,Cash,5
+7,October,2023,P0059,Sweets,Sweets,42,150,6300,North,36-45,Female,Buy1Get1,Card,4
+25,May,2024,P0078,Color Bombs,Sweets,9,277,2493,West,36-45,Female,Discount,UPI,4
+13,May,2023,P0094,Color Bombs,Accessories,95,46,4370,South,36-45,Female,Discount,Cash,2
+4,November,2023,P0041,Sweets,Accessories,7,83,581,North,36-45,Female,None,UPI,3
+4,December,2024,P0068,Sweets,Colors,68,82,5576,North,46-60,Female,Discount,Cash,5
+6,June,2024,P0068,Organic Colors,Colors,19,317,6023,South,36-45,Male,Discount,Cash,2
+28,July,2024,P0092,Organic Colors,Colors,94,208,19552,East,18-25,Male,None,UPI,2
+31,August,2023,P0008,Pichkari,Colors,31,139,4309,West,18-25,Other,Discount,Card,1
+19,August,2024,P0002,Thandai,Sweets,35,255,8925,North,36-45,Male,Buy1Get1,Card,5
+29,November,2023,P0086,Thandai,Accessories,57,321,18297,East,26-35,Male,Buy1Get1,Cash,2
+12,February,2024,P0041,Pichkari,Accessories,85,69,5865,South,46-60,Male,None,Card,1
+22,September,2023,P0055,Color Bombs,Colors,61,288,17568,West,36-45,Female,Discount,Cash,5
+7,July,2024,P0016,Color Bombs,Colors,31,112,3472,West,36-45,Female,Buy1Get1,Card,4
+27,April,2024,P0093,Gulal,Sweets,83,305,25315,North,36-45,Other,Buy1Get1,UPI,1
+10,April,2024,P0062,Gulal,Sweets,95,329,31255,West,26-35,Other,Buy1Get1,Card,4
+26,November,2024,P0048,Thandai,Colors,53,496,26288,West,26-35,Other,Buy1Get1,Cash,3
+19,August,2023,P0030,Pichkari,Accessories,32,350,11200,West,26-35,Female,Discount,Cash,3
+7,April,2024,P0012,Color Powder,Accessories,66,160,10560,West,46-60,Male,Discount,Card,3
+30,June,2024,P0035,Organic Colors,Accessories,59,166,9794,South,18-25,Male,Discount,UPI,3
+3,May,2023,P0011,Color Powder,Colors,10,215,2150,East,46-60,Female,Discount,Cash,2
+13,March,2024,P0064,Pichkari,Accessories,2,483,966,South,26-35,Other,Buy1Get1,Cash,3
+13,October,2023,P0050,Gulal,Sweets,66,188,12408,South,18-25,Other,None,Cash,2
+18,November,2024,P0085,Thandai,Sweets,60,206,12360,North,18-25,Other,None,Cash,2
+28,February,2024,P0021,Thandai,Colors,88,232,20416,West,26-35,Female,Buy1Get1,Cash,5
+30,September,2024,P0069,Gulal,Sweets,17,98,1666,South,26-35,Other,Buy1Get1,UPI,2
+26,October,2023,P0048,Color Powder,Colors,96,296,28416,West,46-60,Other,None,Card,2
+20,September,2024,P0020,Water Gun,Accessories,16,443,7088,South,26-35,Female,None,UPI,3
+28,January,2024,P0067,Water Gun,Accessories,16,285,4560,South,18-25,Male,Buy1Get1,UPI,2
+8,October,2024,P0044,Gulal,Accessories,46,245,11270,North,36-45,Female,Buy1Get1,Cash,4
+29,March,2023,P0033,Water Gun,Sweets,39,192,7488,East,26-35,Female,Discount,UPI,3
+31,August,2023,P0073,Sweets,Colors,31,218,6758,East,26-35,Female,Discount,Cash,1
+9,June,2024,P0061,Pichkari,Accessories,88,139,12232,South,46-60,Female,None,UPI,3
+7,May,2023,P0009,Pichkari,Colors,1,162,162,North,46-60,Male,Buy1Get1,Cash,2
+1,May,2024,P0068,Gulal,Accessories,11,22,242,West,26-35,Other,None,Cash,4
+3,June,2024,P0035,Color Bombs,Sweets,85,131,11135,West,18-25,Female,Discount,UPI,3
+13,July,2024,P0081,Organic Colors,Sweets,4,368,1472,South,18-25,Male,Discount,UPI,4
+28,January,2024,P0098,Color Powder,Colors,71,229,16259,East,36-45,Other,None,Card,1
+30,September,2024,P0088,Gulal,Sweets,26,115,2990,North,26-35,Other,Discount,Card,1
+25,March,2024,P0096,Water Gun,Sweets,50,384,19200,East,46-60,Other,Buy1Get1,Card,5
+31,April,2024,P0065,Color Powder,Colors,12,79,948,West,18-25,Female,None,UPI,5
+28,October,2023,P0008,Color Bombs,Accessories,95,204,19380,East,36-45,Female,Buy1Get1,UPI,3
+17,January,2023,P0045,Water Gun,Sweets,81,195,15795,West,26-35,Other,Buy1Get1,Cash,5
+25,November,2023,P0087,Thandai,Colors,97,108,10476,North,18-25,Other,Discount,Card,4
+24,October,2023,P0047,Organic Colors,Sweets,75,91,6825,North,26-35,Other,Buy1Get1,Cash,5
+1,March,2023,P0040,Sweets,Sweets,92,84,7728,South,26-35,Other,None,Cash,4
+6,February,2023,P0076,Water Gun,Sweets,96,383,36768,South,18-25,Other,Buy1Get1,Cash,5
+21,February,2023,P0054,Sweets,Sweets,65,349,22685,East,18-25,Other,Buy1Get1,Cash,5
+6,January,2024,P0076,Color Powder,Colors,47,201,9447,North,18-25,Male,Buy1Get1,Card,5
+26,August,2024,P0046,Sweets,Colors,92,334,30728,North,26-35,Other,Buy1Get1,Cash,2
+12,March,2024,P0047,Color Powder,Colors,53,476,25228,South,26-35,Female,Buy1Get1,UPI,2
+13,March,2024,P0015,Color Powder,Sweets,71,223,15833,West,36-45,Female,Discount,UPI,5
+13,June,2023,P0019,Color Powder,Sweets,2,324,648,East,46-60,Female,None,UPI,4
+29,August,2023,P0026,Color Powder,Sweets,24,453,10872,East,26-35,Other,Discount,Card,3
+15,September,2024,P0052,Color Powder,Colors,4,476,1904,South,46-60,Female,None,Cash,1
+21,September,2024,P0093,Water Gun,Sweets,19,391,7429,North,18-25,Male,None,Card,2
+16,April,2023,P0022,Color Powder,Accessories,26,376,9776,South,26-35,Other,None,Cash,5
+22,May,2024,P0021,Water Gun,Sweets,75,327,24525,South,36-45,Female,None,Card,1
+21,February,2024,P0051,Color Powder,Accessories,40,153,6120,South,36-45,Male,None,Card,2
+11,November,2024,P0038,Sweets,Sweets,50,393,19650,South,46-60,Male,Buy1Get1,Cash,3
+28,September,2024,P0020,Thandai,Colors,43,225,9675,West,18-25,Female,Discount,Card,4
+5,August,2023,P0029,Color Powder,Sweets,75,370,27750,West,46-60,Male,Discount,Cash,5
+4,March,2024,P0051,Color Bombs,Accessories,67,333,22311,North,18-25,Female,Buy1Get1,UPI,3
+3,November,2024,P0004,Color Powder,Accessories,12,24,288,South,36-45,Male,None,UPI,2
+19,December,2023,P0055,Color Powder,Sweets,67,226,15142,West,46-60,Other,Discount,UPI,5
+20,September,2023,P0071,Sweets,Accessories,27,448,12096,North,36-45,Other,Buy1Get1,Card,1
+25,March,2024,P0092,Organic Colors,Accessories,54,44,2376,South,36-45,Other,Buy1Get1,UPI,4
+18,September,2023,P0028,Pichkari,Colors,66,192,12672,East,18-25,Other,Discount,Cash,2
+15,February,2024,P0004,Sweets,Sweets,49,279,13671,West,46-60,Other,Discount,UPI,4
+9,December,2024,P0022,Color Bombs,Sweets,16,442,7072,North,46-60,Female,None,UPI,5
+17,October,2023,P0076,Pichkari,Sweets,2,476,952,East,36-45,Other,None,Card,3
+14,September,2024,P0045,Gulal,Accessories,60,367,22020,South,36-45,Other,Discount,Cash,4
+15,August,2024,P0067,Gulal,Sweets,54,109,5886,South,18-25,Other,None,Card,1
+31,September,2024,P0086,Organic Colors,Sweets,30,16,480,South,26-35,Other,Buy1Get1,Card,2
+1,May,2024,P0066,Color Bombs,Colors,84,39,3276,West,26-35,Male,None,Cash,1
+21,November,2023,P0088,Sweets,Colors,38,476,18088,North,36-45,Other,None,Card,4
+22,November,2023,P0034,Water Gun,Colors,28,314,8792,East,26-35,Other,Buy1Get1,Cash,3
+22,February,2024,P0091,Color Bombs,Accessories,25,482,12050,North,26-35,Female,None,UPI,3
+3,August,2023,P0055,Thandai,Sweets,96,153,14688,West,26-35,Male,Buy1Get1,Cash,1
+16,December,2024,P0001,Pichkari,Colors,10,120,1200,North,26-35,Female,None,Cash,5
+23,June,2024,P0072,Pichkari,Colors,60,241,14460,West,36-45,Other,Discount,Cash,5
+25,August,2024,P0087,Color Powder,Colors,42,188,7896,South,26-35,Female,None,Card,3
+11,November,2024,P0038,Gulal,Sweets,40,81,3240,East,26-35,Female,Discount,Cash,1
+12,May,2024,P0006,Organic Colors,Sweets,97,219,21243,South,18-25,Other,Discount,Cash,1
+10,October,2023,P0086,Pichkari,Sweets,77,229,17633,North,36-45,Male,Discount,Cash,1
+16,February,2024,P0025,Color Bombs,Accessories,42,89,3738,South,46-60,Male,Discount,UPI,4
+8,June,2023,P0082,Pichkari,Accessories,47,92,4324,East,46-60,Female,Discount,Cash,5
+6,May,2023,P0017,Organic Colors,Colors,37,51,1887,South,18-25,Other,Buy1Get1,Card,5
+12,December,2024,P0061,Organic Colors,Sweets,80,282,22560,East,18-25,Female,Buy1Get1,Cash,4
+24,December,2024,P0012,Organic Colors,Colors,22,200,4400,East,36-45,Female,Buy1Get1,Cash,2
+28,May,2024,P0006,Color Bombs,Sweets,57,182,10374,South,46-60,Female,Discount,UPI,4
+21,January,2024,P0090,Water Gun,Sweets,84,470,39480,West,26-35,Other,None,Cash,1
+8,February,2024,P0027,Color Powder,Sweets,27,16,432,North,18-25,Other,Buy1Get1,Card,4
+26,August,2023,P0008,Gulal,Accessories,41,164,6724,West,46-60,Male,None,Cash,1
+28,March,2024,P0083,Pichkari,Accessories,80,19,1520,West,36-45,Other,None,Card,3
+4,October,2024,P0065,Color Bombs,Sweets,34,43,1462,South,26-35,Female,Discount,UPI,1
+26,March,2023,P0057,Sweets,Colors,32,45,1440,North,36-45,Female,Discount,Cash,5
+8,August,2023,P0093,Gulal,Sweets,90,418,37620,North,18-25,Male,Discount,UPI,4
+26,August,2024,P0099,Water Gun,Sweets,89,15,1335,West,46-60,Other,Buy1Get1,Cash,1
+28,February,2023,P0040,Color Bombs,Colors,66,417,27522,South,46-60,Female,Discount,Card,2
+18,August,2024,P0014,Thandai,Sweets,12,411,4932,North,46-60,Male,Buy1Get1,UPI,3
+28,November,2023,P0035,Thandai,Colors,40,224,8960,West,46-60,Male,Buy1Get1,Cash,2
+28,January,2023,P0048,Color Powder,Accessories,73,143,10439,North,26-35,Female,Buy1Get1,Card,2
+5,June,2024,P0084,Color Powder,Accessories,76,294,22344,South,26-35,Female,Buy1Get1,UPI,2
+9,August,2023,P0056,Water Gun,Colors,90,135,12150,South,36-45,Other,Discount,Cash,3
+4,March,2023,P0049,Water Gun,Accessories,73,418,30514,South,26-35,Male,Buy1Get1,UPI,3
+27,August,2023,P0013,Color Powder,Accessories,10,448,4480,North,18-25,Female,Discount,Cash,3
+22,December,2023,P0061,Pichkari,Colors,96,346,33216,East,18-25,Male,Discount,Card,3
+31,January,2023,P0049,Pichkari,Accessories,98,183,17934,North,46-60,Other,Buy1Get1,Card,2
+17,November,2023,P0046,Color Bombs,Sweets,48,161,7728,East,18-25,Female,Discount,UPI,5
+9,November,2024,P0062,Sweets,Sweets,20,340,6800,South,36-45,Other,None,UPI,5
+1,September,2024,P0008,Color Bombs,Colors,39,35,1365,West,26-35,Male,Discount,Cash,3
+21,November,2023,P0043,Sweets,Accessories,60,392,23520,East,26-35,Other,Discount,Card,4
+20,September,2024,P0020,Water Gun,Sweets,66,124,8184,South,26-35,Other,Buy1Get1,Cash,1
+13,May,2024,P0097,Gulal,Sweets,65,391,25415,South,18-25,Male,Buy1Get1,Card,4
+28,October,2024,P0090,Color Bombs,Accessories,51,491,25041,East,26-35,Other,Discount,UPI,4
+16,April,2023,P0039,Color Bombs,Accessories,36,293,10548,West,46-60,Male,Buy1Get1,Cash,4
+29,November,2024,P0085,Sweets,Sweets,24,396,9504,South,46-60,Female,None,Cash,5
+13,June,2023,P0049,Organic Colors,Sweets,27,84,2268,East,46-60,Male,None,Card,1
+14,December,2024,P0064,Water Gun,Colors,2,175,350,West,18-25,Male,Buy1Get1,Card,4
+3,July,2023,P0062,Water Gun,Colors,31,198,6138,West,26-35,Female,Discount,Card,3
+29,May,2023,P0054,Thandai,Sweets,57,87,4959,South,18-25,Male,None,UPI,5
+6,November,2024,P0009,Organic Colors,Colors,78,444,34632,North,26-35,Female,None,Cash,3
+18,October,2024,P0088,Sweets,Sweets,66,99,6534,North,36-45,Female,Discount,Card,3
+19,September,2023,P0037,Water Gun,Sweets,29,185,5365,South,36-45,Male,Buy1Get1,UPI,4
+5,March,2024,P0049,Organic Colors,Colors,15,30,450,West,18-25,Other,None,Card,3
+15,July,2024,P0041,Color Powder,Colors,12,63,756,South,46-60,Other,Discount,Cash,1
+25,October,2024,P0017,Organic Colors,Accessories,28,193,5404,East,18-25,Female,Discount,Card,3
+2,October,2023,P0088,Pichkari,Accessories,84,368,30912,North,46-60,Other,None,Cash,4
+10,November,2023,P0021,Thandai,Accessories,24,231,5544,East,26-35,Other,Buy1Get1,UPI,3
+24,May,2024,P0051,Color Powder,Sweets,21,324,6804,South,46-60,Male,None,UPI,5
+30,July,2024,P0059,Gulal,Colors,10,337,3370,South,46-60,Female,Discount,Card,5
+18,February,2024,P0039,Color Bombs,Sweets,78,188,14664,West,26-35,Female,None,Cash,5
+27,April,2023,P0055,Thandai,Colors,18,285,5130,West,36-45,Male,Buy1Get1,Cash,2
+13,February,2023,P0041,Gulal,Sweets,88,121,10648,West,26-35,Other,Discount,Cash,5
+5,December,2024,P0039,Color Bombs,Accessories,14,233,3262,East,18-25,Female,Buy1Get1,Card,5
+23,July,2024,P0013,Pichkari,Accessories,34,223,7582,West,18-25,Other,None,Cash,2
+24,February,2024,P0064,Organic Colors,Accessories,58,68,3944,South,18-25,Female,None,Cash,5
+1,November,2024,P0011,Water Gun,Sweets,76,336,25536,West,18-25,Female,Buy1Get1,Cash,4
+22,January,2024,P0019,Color Powder,Colors,22,402,8844,North,18-25,Female,None,Cash,5
+1,September,2024,P0011,Sweets,Colors,70,118,8260,West,36-45,Female,Buy1Get1,Card,5
+18,January,2023,P0077,Color Powder,Accessories,36,394,14184,East,36-45,Other,None,Card,2
+15,August,2024,P0046,Pichkari,Accessories,45,166,7470,North,46-60,Other,Buy1Get1,Cash,4
+17,February,2023,P0045,Gulal,Accessories,36,200,7200,North,18-25,Other,Buy1Get1,Cash,3
+11,December,2024,P0001,Sweets,Accessories,22,209,4598,North,26-35,Other,Discount,UPI,1
+21,August,2024,P0040,Water Gun,Colors,78,321,25038,East,18-25,Male,Discount,UPI,4
+26,March,2023,P0019,Pichkari,Sweets,80,205,16400,South,36-45,Female,Buy1Get1,Cash,3
